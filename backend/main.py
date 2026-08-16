@@ -132,7 +132,7 @@ def get_schemes(
     offset: int = 0
 ):
     """Returns schemes list from the Knowledge Graph storage."""
-    (g_en, schemes_en), (g_ta, schemes_ta) = get_or_load_graphs()
+    (g_en, schemes_en, _), (g_ta, schemes_ta, _) = get_or_load_graphs()
     schemes_dict = schemes_ta if lang == "ta" else schemes_en
     all_schemes = list(schemes_dict.values())
 
@@ -184,7 +184,7 @@ def get_schemes(
 @app.get("/schemes/categories")
 def get_categories(lang: str = "en"):
     """Returns all unique scheme categories from the Knowledge Graph."""
-    (g_en, _), (g_ta, _) = get_or_load_graphs()
+    (g_en, _, _), (g_ta, _, _) = get_or_load_graphs()
     graph = g_ta if lang == "ta" else g_en
 
     categories = [
@@ -198,7 +198,7 @@ def get_categories(lang: str = "en"):
 @app.get("/schemes/detail/{slug}")
 def get_scheme_detail(slug: str, lang: str = "en"):
     """Returns full details of a specific scheme."""
-    (g_en, schemes_en), (g_ta, schemes_ta) = get_or_load_graphs()
+    (g_en, schemes_en, _), (g_ta, schemes_ta, _) = get_or_load_graphs()
     schemes_dict = schemes_ta if lang == "ta" else schemes_en
     scheme = schemes_dict.get(slug.lower().strip())
 
@@ -229,7 +229,7 @@ def get_scheme_detail(slug: str, lang: str = "en"):
 @app.get("/stats")
 def get_stats():
     """Returns system stats for the dashboard."""
-    (g_en, schemes_en), _ = get_or_load_graphs()
+    (g_en, schemes_en, _), _ = get_or_load_graphs()
     return {
         "total_schemes": len(schemes_en),
         "total_unanswered_queries": 0,
