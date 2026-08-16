@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q1",
+    "query": "How do I apply for certified seed subsidy in Tamil Nadu?",
+    "language": "en",
+    "expected_slugs": ["docsos", "pofacs"],
+    "expected_keywords": ["subsidy", "seed", "agricultural office", "application"]
+  },
+  {
+    "id": "q2",
+    "query": "தமிழ்நாட்டில் சான்றளிக்கப்பட்ட விதை மானியம் பெறுவது எப்படி?",
+    "language": "ta",
+    "expected_slugs": ["docsos", "pofacs"],
+    "expected_keywords": ["மானியம்", "விதை", "வேளாண் அலுவலகம்"]
+  },
+  {
+    "id": "q3",
+    "query": "What are the benefits of gypsum distribution for oil seeds?",
+    "language": "en",
+    "expected_slugs": ["dogos"],
+    "expected_keywords": ["gypsum", "cost", "transport", "hectare"]
+  },
+  {
+    "id": "q4",
+    "query": "hi",
+    "language": "en",
+    "is_greeting": true,
+    "expected_keywords": ["hello", "assist", "schemes"]
+  },
+  {
+    "id": "q5",
+    "query": "who won the cricket match?",
+    "language": "en",
+    "is_off_topic": true,
+    "expected_rejected": true
+  }
+]

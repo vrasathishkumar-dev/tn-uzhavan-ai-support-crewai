@@ -1,0 +1,54 @@
+# -------------------------------------------------------------
+# User Intent Definitions
+# -------------------------------------------------------------
+define user greet
+  "hi"
+  "hello"
+  "hey"
+  "vanakkam"
+  "வணக்கம்"
+  "good morning"
+  "good afternoon"
+  "good evening"
+  "how are you"
+
+define user ask off_topic
+  "who won the match"
+  "who is the prime minister"
+  "write a python code"
+  "tell me a movie review"
+  "what is the weather in new york"
+  "who is elon musk"
+  "tell me a joke"
+  "crypto prices today"
+
+define user ask agriculture_scheme
+  "how to apply for seed subsidy"
+  "what is the eligibility for PM-KISAN"
+  "certified seed subsidy in Tamil Nadu"
+  "விதை மானியம் பெறுவது எப்படி"
+  "பயிர் காப்பீடு விவரங்கள்"
+  "உர மானியம் பெறுவது எப்படி"
+  "டிராக்டர் வாங்க அரசு மானியம் உள்ளதா"
+
+# -------------------------------------------------------------
+# Bot Responses
+# -------------------------------------------------------------
+define bot greet
+  "வணக்கம்! நான் தமிழ்நாடு உழவர் நலத் திட்டங்களின் AI உதவியாளர். 🌾 விவசாயத் திட்டங்கள், விதை மானியம், உரம், பாசன உதவிகள் மற்றும் அரசு சலுகைகள் பற்றி என்னிடம் கேட்கலாம். உங்களுக்கு எவ்வாறு உதவ வேண்டும்?"
+
+define bot refuse off_topic
+  "⚠️ **பாதுகாப்பு வழிகாட்டுதல் (NeMo Guardrail):**\nநான் அரசு வேளாண் திட்டங்கள், விவசாய நலத்திட்டங்கள் மற்றும் மானியங்கள் தொடர்பான தகவல்களை வழங்க மட்டுமே வடிவமைக்கப்பட்டுள்ளேன். தயவுசெய்து வேளாண் திட்டங்கள் மற்றும் விவசாயம் தொடர்பான கேள்விகளைக் கேளுங்கள்."
+
+# -------------------------------------------------------------
+# Guardrail Flows
+# -------------------------------------------------------------
+define flow check greetings
+  user greet
+  bot greet
+  stop
+
+define flow check off_topic
+  user ask off_topic
+  bot refuse off_topic
+  stop

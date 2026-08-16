@@ -1,0 +1,3213 @@
+{
+  "graph": {
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "entity_type": "Scheme",
+        "name": "ரைசோபியம் பாக்கெட்டுகள்-எண்ணெய் வித்துக்கள் விநியோகம்",
+        "lang": "ta",
+        "id": "dorpo"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Agriculture",
+        "id": "cat_agriculture"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Rural & Environment",
+        "id": "cat_rural_&_environment"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விவசாயம்",
+        "id": "tag_விவசாயம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விவசாயி",
+        "id": "tag_விவசாயி"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ரைசோபியம்",
+        "id": "tag_ரைசோபியம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "எண்ணெய் வித்துக்கள்",
+        "id": "tag_எண்ணெய்_வித்துக்கள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மானியம்",
+        "id": "tag_மானியம்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மூலத்திலிருந்து வயல்-பருப்புகளுக்கு தண்ணீரை எடுத்துச் செல்லும் குழாய்கள்",
+        "lang": "ta",
+        "id": "pcwfstfpi"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நீர்ப்பாசனம்",
+        "id": "tag_நீர்ப்பாசனம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "குழாய்கள்",
+        "id": "tag_குழாய்கள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பருப்புகள் ஐ. எஸ். பி. ஓ. எம்",
+        "id": "tag_பருப்புகள்_ஐ._எஸ்._பி._ஓ._எம்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஆதாரத்திலிருந்து வயலுக்கு தண்ணீரை எடுத்துச் செல்லும் குழாய்கள்",
+        "lang": "ta",
+        "id": "pcwfsf"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "முதலமைச்சரின் உழவர் பதுகாப்பு திட்டத்தின் கீழ் முதியோர் ஓய்வூதியத் திட்டம்",
+        "lang": "ta",
+        "id": "oapsucmupt"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Social welfare & Empowerment",
+        "id": "cat_social_welfare_&_empowerment"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விவசாயிகள்",
+        "id": "tag_விவசாயிகள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஓய்வூதியம்",
+        "id": "tag_ஓய்வூதியம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நிதி உதவி",
+        "id": "tag_நிதி_உதவி"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மூத்த குடிமகன்",
+        "id": "tag_மூத்த_குடிமகன்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "உழைப்பு",
+        "id": "tag_உழைப்பு"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மக்காச்சோளம் சான்றளிக்கப்பட்ட விதைகள் உற்பத்தி",
+        "lang": "ta",
+        "id": "pocsm"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "சான்றளிக்கப்பட்ட விதைகள்",
+        "id": "tag_சான்றளிக்கப்பட்ட_விதைகள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதைகள் உற்பத்தி",
+        "id": "tag_விதைகள்_உற்பத்தி"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மக்காச்சோளம்",
+        "id": "tag_மக்காச்சோளம்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மாவட்ட மத்திய கூட்டுறவு வங்கிகள் மற்றும் அதன் கிளைகள் மூலம்: எஸ்எஸ்ஐ அலகு கடன் மற்றும் பிற என்எப்எஸ் செயல்பாடுகளுக்கு",
+        "lang": "ta",
+        "id": "dccbssi"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Banking",
+        "id": "cat_banking"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Financial Services and Insurance",
+        "id": "cat_financial_services_and_insurance"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "எஸ்எஸ்ஐ அலகு கடன்",
+        "id": "tag_எஸ்எஸ்ஐ_அலகு_கடன்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பண்ணை சாரா துறை செயல்பாடுகள்",
+        "id": "tag_பண்ணை_சாரா_துறை_செயல்பாடுகள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "தொழிற்சாலைகள்",
+        "id": "tag_தொழிற்சாலைகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ரைசோபியம் விநியோகம்",
+        "lang": "ta",
+        "id": "dor"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "நிலக்கடலையில் பாலிதீன் தழை தொழில்நுட்பம் குறித்த தொகுதி ஆர்ப்பாட்டத்தை ஏற்பாடு செய்தல்",
+        "lang": "ta",
+        "id": "obdopmtig"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "தடுப்பு ஆர்ப்பாட்டம்",
+        "id": "tag_தடுப்பு_ஆர்ப்பாட்டம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பாலிதீன் மூலக்கூறு தொழில்நுட்பம்",
+        "id": "tag_பாலிதீன்_மூலக்கூறு_தொழில்நுட்பம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நிலக்கடலை",
+        "id": "tag_நிலக்கடலை"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஜிப்சம்-எண்ணெய் விதைகள் விநியோகம்",
+        "lang": "ta",
+        "id": "dogos"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதை விநியோகம்",
+        "id": "tag_விதை_விநியோகம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஜிப்சம்",
+        "id": "tag_ஜிப்சம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "எண்ணெய் விதைகள்",
+        "id": "tag_எண்ணெய்_விதைகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஆதரவற்ற விவசாயத் தொழிலாளர்கள் ஓய்வூதியத் திட்டம்",
+        "lang": "ta",
+        "id": "dalps"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Women and Child",
+        "id": "cat_women_and_child"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஆதரவற்றவர்",
+        "id": "tag_ஆதரவற்றவர்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஆடைகள்",
+        "id": "tag_ஆடைகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "கையால் இயக்கப்படும் தாவர பாதுகாப்பு உபகரணங்கள் விநியோகம்",
+        "lang": "ta",
+        "id": "domoppe"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "உபகரணங்கள் விநியோகம்",
+        "id": "tag_உபகரணங்கள்_விநியோகம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "கையால் இயக்கப்படும் உபகரணங்கள்",
+        "id": "tag_கையால்_இயக்கப்படும்_உபகரணங்கள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "தாவரப் பாதுகாப்புக் கருவிகள்",
+        "id": "tag_தாவரப்_பாதுகாப்புக்_கருவிகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தரமான நெல் விதை விநியோகம்",
+        "lang": "ta",
+        "id": "qpsd"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நெல்",
+        "id": "tag_நெல்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதை உற்பத்தி",
+        "id": "tag_விதை_உற்பத்தி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஏலக்காய் ஏற்றுமதி ஊக்குவிப்பு மற்றும் மசாலாப் பொருட்களின் தர மேம்பாடு மற்றும் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: அறுவடைக்குப் பிந்தைய மேம்பாடு: சிறிய ஏலக்காய்க்கான ஐ. சி. சி. டி. (மேம்படுத்தப்பட்ட ஏலக்காய் குணப்படுத்தும் சாதனங்கள்)",
+        "lang": "ta",
+        "id": "isfepqiisaradocphicdscnosiccd"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Business & Entrepreneurship",
+        "id": "cat_business_&_entrepreneurship"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "சிறிய ஏலக்காய்",
+        "id": "tag_சிறிய_ஏலக்காய்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மசாலா பலகை",
+        "id": "tag_மசாலா_பலகை"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "துறை மூலமாகவும், தமிழ்நாடு தேசிய பல்கலைக்கழகத்தின் மூலமாகவும் தொகுதி ஆர்ப்பாட்டத்தை ஏற்பாடு செய்தல்",
+        "lang": "ta",
+        "id": "obdtdaattnau"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறிய ஏலக்காய் நீர்ப்பாசன நில மேம்பாடு: நீர்ப்பாசன உபகரணங்கள் (எண்",
+        "lang": "ta",
+        "id": "isfepqiisaradocscildie"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஈர்ப்பு கருவிகள்",
+        "id": "tag_ஈர்ப்பு_கருவிகள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நீர்ப்பாசன பம்ப்",
+        "id": "tag_நீர்ப்பாசன_பம்ப்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மைக்ரோ ஸ்ப்ரிங்க்லர் தொகுப்புகள்",
+        "id": "tag_மைக்ரோ_ஸ்ப்ரிங்க்லர்_தொகுப்புகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸின் பரவல்",
+        "lang": "ta",
+        "id": "donpv"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸ்",
+        "id": "tag_நியூக்ளியர்_பாலி_ஹெட்ரோசிஸ்_வைரஸ்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "என்பிவி",
+        "id": "tag_என்பிவி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "நெல், சிறுதானியங்கள், பருப்பு வகைகள், எண்ணெய் வித்துக்கள் மற்றும் பருத்தி ஆகியவற்றின் விதை பெருக்கத் திட்டம்",
+        "lang": "ta",
+        "id": "smsopm"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதை பெருக்கம்",
+        "id": "tag_விதை_பெருக்கம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பயிர்கள்",
+        "id": "tag_பயிர்கள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "அடித்தள விதைகள் உற்பத்தி",
+        "lang": "ta",
+        "id": "pofs"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "அடித்தள விதைகள்",
+        "id": "tag_அடித்தள_விதைகள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: பாசனப் பகுதிகளில் பட்டு வளர்ப்புக்கு",
+        "lang": "ta",
+        "id": "pcardsia"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பட்டுப்புழு வளர்ப்பு",
+        "id": "tag_பட்டுப்புழு_வளர்ப்பு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "கடன்",
+        "id": "tag_கடன்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விவசாயம் மற்றும் கிராமப்புற மேம்பாட்டு வங்கி",
+        "id": "tag_விவசாயம்_மற்றும்_கிராமப்புற_மேம்பாட்டு_வங்கி"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பாசனப் பகுதி",
+        "id": "tag_பாசனப்_பகுதி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "கர்நாடகாவில் உள்ள ஆராய்ச்சி நிலையங்களுக்கு ஒப்பந்த விவசாய விவசாயிகள் வருகை",
+        "lang": "ta",
+        "id": "vcfrsk"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஒப்பந்த விவசாயம்",
+        "id": "tag_ஒப்பந்த_விவசாயம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஆராய்ச்சி நிலையங்கள் வருகை",
+        "id": "tag_ஆராய்ச்சி_நிலையங்கள்_வருகை"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "அடித்தளம் மற்றும் சான்றளிக்கப்பட்ட விதைகளின் உற்பத்தி",
+        "lang": "ta",
+        "id": "pofacs"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "நுண் ஊட்டச்சத்து தெளிப்பு",
+        "lang": "ta",
+        "id": "mns"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நுண் ஊட்டச்சத்து தெளிப்பு",
+        "id": "tag_நுண்_ஊட்டச்சத்து_தெளிப்பு"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தடுப்பு ஆர்ப்பாட்டம் ஏற்பாடு செய்தல்",
+        "lang": "ta",
+        "id": "obd"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "சான்றளிக்கப்பட்ட விதைகளின் உற்பத்தி",
+        "lang": "ta",
+        "id": "pocs"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "விவசாயிகளுக்கு பயிற்சி",
+        "lang": "ta",
+        "id": "ttf"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பயிற்சி",
+        "id": "tag_பயிற்சி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "விவசாயிகளுக்கு பயிற்சி",
+        "lang": "ta",
+        "id": "ft"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "பருப்பு வகைகள் உற்பத்தி தொழில்நுட்பங்கள் குறித்து விவசாயிகளுக்கு பயிற்சி",
+        "lang": "ta",
+        "id": "tfppt"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பருப்பு வகைகள் உற்பத்தி",
+        "id": "tag_பருப்பு_வகைகள்_உற்பத்தி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறிய ஏலக்காய் நீர்ப்பாசன நில மேம்பாடு: நீர்ப்பாசனம்/நீர் சேமிப்பு அமைப்பு (எண்",
+        "lang": "ta",
+        "id": "isfepqiisaradocscildiwss"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நீர் சேமிப்பு",
+        "id": "tag_நீர்_சேமிப்பு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பட்டியலிடப்பட்ட சாதியினர்",
+        "id": "tag_பட்டியலிடப்பட்ட_சாதியினர்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பட்டியல் பழங்குடியினர்",
+        "id": "tag_பட்டியல்_பழங்குடியினர்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: டிராக்டர் வாங்குவதற்கு",
+        "lang": "ta",
+        "id": "pcardftc"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தொடக்க கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: கால்நடை பராமரிப்புக்காக",
+        "lang": "ta",
+        "id": "pcardah"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "கால்நடை பராமரிப்புக் கடன்",
+        "id": "tag_கால்நடை_பராமரிப்புக்_கடன்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறு ஏலக்காய் மாற்று/புதிய நடவு: கேரளா மற்றும் தமிழ்நாட்டிற்கு",
+        "lang": "ta",
+        "id": "isfepqinsaradocsrnpfkt"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "நடவு",
+        "id": "tag_நடவு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மறுசீரமைப்பு",
+        "id": "tag_மறுசீரமைப்பு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "கேரளா",
+        "id": "tag_கேரளா"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "தமிழ்நாடு",
+        "id": "tag_தமிழ்நாடு"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "கால்நடை வளர்ப்பு",
+        "lang": "ta",
+        "id": "ahtn"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பழங்குடியினர் நலன்",
+        "id": "tag_பழங்குடியினர்_நலன்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "கால்நடை வளர்ப்பு",
+        "id": "tag_கால்நடை_வளர்ப்பு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விலங்குகள் சுகாதார காப்பீடு",
+        "id": "tag_விலங்குகள்_சுகாதார_காப்பீடு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "செயற்கை கருவூட்டல்",
+        "id": "tag_செயற்கை_கருவூட்டல்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஆடு அலகுகள் விநியோகம்",
+        "id": "tag_ஆடு_அலகுகள்_விநியோகம்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "விவசாயிகள் ஆர்வக் குழு (படம்)",
+        "lang": "ta",
+        "id": "fig"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விவசாயிகள் ஆர்வக் குழு",
+        "id": "tag_விவசாயிகள்_ஆர்வக்_குழு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "படம்",
+        "id": "tag_படம்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "சான்றளிக்கப்பட்ட விதைகள்-எண்ணெய் விதைகள் விநியோகம்",
+        "lang": "ta",
+        "id": "docsos"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: உள்நாட்டு மீன்பிடிக்காக",
+        "lang": "ta",
+        "id": "pcardbif"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "உள்நாட்டு மீன்பிடித்தல்",
+        "id": "tag_உள்நாட்டு_மீன்பிடித்தல்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மண் சுகாதார அட்டை விநியோகம்",
+        "lang": "ta",
+        "id": "doshc"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மண் சுகாதார அட்டை",
+        "id": "tag_மண்_சுகாதார_அட்டை"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "சமையல் எண்ணெய்களுக்கான தேசிய இயக்கம்-எண்ணெய் பனை",
+        "lang": "ta",
+        "id": "nmeo-op"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "எண்ணெய் பனை",
+        "id": "tag_எண்ணெய்_பனை"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "பரப்பளவு விரிவாக்கம்",
+        "id": "tag_பரப்பளவு_விரிவாக்கம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "எண்ணெய் பனை ஆலை",
+        "id": "tag_எண்ணெய்_பனை_ஆலை"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதை தோட்டம்",
+        "id": "tag_விதை_தோட்டம்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "விதை நாற்றங்கால்",
+        "id": "tag_விதை_நாற்றங்கால்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "செயலி",
+        "id": "tag_செயலி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மினிகிட்டுகளை இலவசமாக விநியோகம் செய்தல்",
+        "lang": "ta",
+        "id": "domafoc"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "மினிகிட்கள்",
+        "id": "tag_மினிகிட்கள்"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஒருங்கிணைந்த பூச்சி மேலாண்மை பயிற்சி",
+        "lang": "ta",
+        "id": "ipmdct"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஒருங்கிணைந்த பூச்சி மேலாண்மை",
+        "id": "tag_ஒருங்கிணைந்த_பூச்சி_மேலாண்மை"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "காடுகளில் பழங்குடியினருக்கு ஊக்குவிப்பு மற்றும் வேலைவாய்ப்பு வழங்கும் காடழிப்பு திட்டங்கள்",
+        "lang": "ta",
+        "id": "aspie"
+      },
+      {
+        "entity_type": "Category",
+        "name": "Skills & Employment",
+        "id": "cat_skills_&_employment"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "காடு வளர்ப்பு",
+        "id": "tag_காடு_வளர்ப்பு"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஊக்குவிப்புகள்",
+        "id": "tag_ஊக்குவிப்புகள்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "வேலைவாய்ப்பு",
+        "id": "tag_வேலைவாய்ப்பு"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "ஜெனரேட்டர் மானியம்-தமிழ்நாடு",
+        "lang": "ta",
+        "id": "gstn"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "ஜெனரேட்டர்",
+        "id": "tag_ஜெனரேட்டர்"
+      },
+      {
+        "entity_type": "Tag",
+        "name": "உற்பத்தி",
+        "id": "tag_உற்பத்தி"
+      },
+      {
+        "entity_type": "Scheme",
+        "name": "மக்காச்சோளம் சான்றளிக்கப்பட்ட விதைகள் விநியோகம்",
+        "lang": "ta",
+        "id": "docsom"
+      }
+    ],
+    "edges": [
+      {
+        "relation": "BELONGS_TO",
+        "source": "dorpo",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dorpo",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dorpo",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dorpo",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dorpo",
+        "target": "tag_ரைசோபியம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dorpo",
+        "target": "tag_எண்ணெய்_வித்துக்கள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dorpo",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcwfstfpi",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcwfstfpi",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfstfpi",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfstfpi",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfstfpi",
+        "target": "tag_நீர்ப்பாசனம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfstfpi",
+        "target": "tag_குழாய்கள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfstfpi",
+        "target": "tag_பருப்புகள்_ஐ._எஸ்._பி._ஓ._எம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcwfsf",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcwfsf",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfsf",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfsf",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfsf",
+        "target": "tag_நீர்ப்பாசனம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcwfsf",
+        "target": "tag_குழாய்கள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "oapsucmupt",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "oapsucmupt",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "oapsucmupt",
+        "target": "cat_social_welfare_&_empowerment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "oapsucmupt",
+        "target": "tag_விவசாயிகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "oapsucmupt",
+        "target": "tag_ஓய்வூதியம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "oapsucmupt",
+        "target": "tag_நிதி_உதவி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "oapsucmupt",
+        "target": "tag_மூத்த_குடிமகன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "oapsucmupt",
+        "target": "tag_உழைப்பு"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pocsm",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pocsm",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocsm",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocsm",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocsm",
+        "target": "tag_சான்றளிக்கப்பட்ட_விதைகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocsm",
+        "target": "tag_விதைகள்_உற்பத்தி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocsm",
+        "target": "tag_மக்காச்சோளம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dccbssi",
+        "target": "cat_banking"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dccbssi",
+        "target": "cat_financial_services_and_insurance"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dccbssi",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dccbssi",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dccbssi",
+        "target": "tag_எஸ்எஸ்ஐ_அலகு_கடன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dccbssi",
+        "target": "tag_பண்ணை_சாரா_துறை_செயல்பாடுகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dccbssi",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dccbssi",
+        "target": "tag_தொழிற்சாலைகள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dor",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dor",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dor",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dor",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dor",
+        "target": "tag_ரைசோபியம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dor",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obdopmtig",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obdopmtig",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdopmtig",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdopmtig",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdopmtig",
+        "target": "tag_தடுப்பு_ஆர்ப்பாட்டம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdopmtig",
+        "target": "tag_பாலிதீன்_மூலக்கூறு_தொழில்நுட்பம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdopmtig",
+        "target": "tag_நிலக்கடலை"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dogos",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dogos",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_விதை_விநியோகம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_ஜிப்சம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_எண்ணெய்_விதைகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dogos",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dalps",
+        "target": "cat_social_welfare_&_empowerment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dalps",
+        "target": "cat_women_and_child"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dalps",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "dalps",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_ஆதரவற்றவர்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_நிதி_உதவி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_உழைப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_மூத்த_குடிமகன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "dalps",
+        "target": "tag_ஆடைகள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "domoppe",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "domoppe",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_உபகரணங்கள்_விநியோகம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_கையால்_இயக்கப்படும்_உபகரணங்கள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_தாவரப்_பாதுகாப்புக்_கருவிகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domoppe",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "qpsd",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "qpsd",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "qpsd",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "qpsd",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "qpsd",
+        "target": "tag_நெல்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "qpsd",
+        "target": "tag_விதை_உற்பத்தி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "cat_business_&_entrepreneurship"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "tag_சிறிய_ஏலக்காய்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "tag_மசாலா_பலகை"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocphicdscnosiccd",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obdtdaattnau",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obdtdaattnau",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdtdaattnau",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdtdaattnau",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdtdaattnau",
+        "target": "tag_தடுப்பு_ஆர்ப்பாட்டம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obdtdaattnau",
+        "target": "tag_மக்காச்சோளம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocscildie",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocscildie",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildie",
+        "target": "tag_ஈர்ப்பு_கருவிகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildie",
+        "target": "tag_நீர்ப்பாசன_பம்ப்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildie",
+        "target": "tag_மைக்ரோ_ஸ்ப்ரிங்க்லர்_தொகுப்புகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildie",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "donpv",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "donpv",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "donpv",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "donpv",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "donpv",
+        "target": "tag_நியூக்ளியர்_பாலி_ஹெட்ரோசிஸ்_வைரஸ்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "donpv",
+        "target": "tag_என்பிவி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "donpv",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "smsopm",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "smsopm",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "smsopm",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "smsopm",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "smsopm",
+        "target": "tag_விதை_பெருக்கம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "smsopm",
+        "target": "tag_நெல்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "smsopm",
+        "target": "tag_பயிர்கள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pofs",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pofs",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofs",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofs",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofs",
+        "target": "tag_விதை_உற்பத்தி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofs",
+        "target": "tag_அடித்தள_விதைகள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardsia",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardsia",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardsia",
+        "target": "cat_banking"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardsia",
+        "target": "cat_financial_services_and_insurance"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardsia",
+        "target": "tag_பட்டுப்புழு_வளர்ப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardsia",
+        "target": "tag_கடன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardsia",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardsia",
+        "target": "tag_விவசாயம்_மற்றும்_கிராமப்புற_மேம்பாட்டு_வங்கி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardsia",
+        "target": "tag_பாசனப்_பகுதி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "vcfrsk",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "vcfrsk",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "vcfrsk",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "vcfrsk",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "vcfrsk",
+        "target": "tag_ஒப்பந்த_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "vcfrsk",
+        "target": "tag_ஆராய்ச்சி_நிலையங்கள்_வருகை"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pofacs",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pofacs",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofacs",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofacs",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofacs",
+        "target": "tag_சான்றளிக்கப்பட்ட_விதைகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofacs",
+        "target": "tag_விதை_உற்பத்தி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pofacs",
+        "target": "tag_அடித்தள_விதைகள்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "mns",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "mns",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "mns",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "mns",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "mns",
+        "target": "tag_நுண்_ஊட்டச்சத்து_தெளிப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "mns",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obd",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "obd",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obd",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obd",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obd",
+        "target": "tag_தடுப்பு_ஆர்ப்பாட்டம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "obd",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pocs",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pocs",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocs",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocs",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocs",
+        "target": "tag_சான்றளிக்கப்பட்ட_விதைகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pocs",
+        "target": "tag_விதைகள்_உற்பத்தி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ttf",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ttf",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ttf",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ttf",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ttf",
+        "target": "tag_மக்காச்சோளம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ttf",
+        "target": "tag_பயிற்சி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ft",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ft",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ft",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ft",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ft",
+        "target": "tag_பயிற்சி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "tfppt",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "tfppt",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "tfppt",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "tfppt",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "tfppt",
+        "target": "tag_பருப்பு_வகைகள்_உற்பத்தி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "tfppt",
+        "target": "tag_பயிற்சி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "tag_நீர்_சேமிப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "tag_பட்டியலிடப்பட்ட_சாதியினர்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "tag_பட்டியல்_பழங்குடியினர்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqiisaradocscildiwss",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardftc",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardftc",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardftc",
+        "target": "cat_banking"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardftc",
+        "target": "cat_financial_services_and_insurance"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardftc",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardftc",
+        "target": "tag_கடன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardftc",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardah",
+        "target": "cat_banking"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardah",
+        "target": "cat_financial_services_and_insurance"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardah",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardah",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardah",
+        "target": "tag_கால்நடை_பராமரிப்புக்_கடன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardah",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardah",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "tag_நடவு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "tag_மறுசீரமைப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "tag_கேரளா"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "isfepqinsaradocsrnpfkt",
+        "target": "tag_தமிழ்நாடு"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ahtn",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ahtn",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ahtn",
+        "target": "tag_பழங்குடியினர்_நலன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ahtn",
+        "target": "tag_கால்நடை_வளர்ப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ahtn",
+        "target": "tag_விலங்குகள்_சுகாதார_காப்பீடு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ahtn",
+        "target": "tag_செயற்கை_கருவூட்டல்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ahtn",
+        "target": "tag_ஆடு_அலகுகள்_விநியோகம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "fig",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "fig",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "fig",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "fig",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "fig",
+        "target": "tag_விவசாயிகள்_ஆர்வக்_குழு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "fig",
+        "target": "tag_படம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "docsos",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "docsos",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsos",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsos",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsos",
+        "target": "tag_விதை_விநியோகம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsos",
+        "target": "tag_எண்ணெய்_விதைகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsos",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardbif",
+        "target": "cat_banking"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardbif",
+        "target": "cat_financial_services_and_insurance"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardbif",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "pcardbif",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardbif",
+        "target": "tag_உள்நாட்டு_மீன்பிடித்தல்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardbif",
+        "target": "tag_கடன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardbif",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "pcardbif",
+        "target": "tag_விவசாயம்_மற்றும்_கிராமப்புற_மேம்பாட்டு_வங்கி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "doshc",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "doshc",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "doshc",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "doshc",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "doshc",
+        "target": "tag_மண்_சுகாதார_அட்டை"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "nmeo-op",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "nmeo-op",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_எண்ணெய்_பனை"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_பரப்பளவு_விரிவாக்கம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_எண்ணெய்_பனை_ஆலை"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_விதை_தோட்டம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_விதை_நாற்றங்கால்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "nmeo-op",
+        "target": "tag_செயலி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "domafoc",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "domafoc",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domafoc",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domafoc",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domafoc",
+        "target": "tag_மினிகிட்கள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "domafoc",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ipmdct",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "ipmdct",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ipmdct",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ipmdct",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ipmdct",
+        "target": "tag_ஒருங்கிணைந்த_பூச்சி_மேலாண்மை"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "ipmdct",
+        "target": "tag_பயிற்சி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "aspie",
+        "target": "cat_skills_&_employment"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "aspie",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "aspie",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "aspie",
+        "target": "tag_பழங்குடியினர்_நலன்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "aspie",
+        "target": "tag_காடு_வளர்ப்பு"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "aspie",
+        "target": "tag_ஊக்குவிப்புகள்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "aspie",
+        "target": "tag_வேலைவாய்ப்பு"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "gstn",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "gstn",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "gstn",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "gstn",
+        "target": "tag_ஜெனரேட்டர்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "gstn",
+        "target": "tag_மானியம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "gstn",
+        "target": "tag_உற்பத்தி"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "docsom",
+        "target": "cat_agriculture"
+      },
+      {
+        "relation": "BELONGS_TO",
+        "source": "docsom",
+        "target": "cat_rural_&_environment"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsom",
+        "target": "tag_விவசாயம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsom",
+        "target": "tag_விவசாயி"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsom",
+        "target": "tag_விதை_விநியோகம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsom",
+        "target": "tag_மக்காச்சோளம்"
+      },
+      {
+        "relation": "HAS_TAG",
+        "source": "docsom",
+        "target": "tag_மானியம்"
+      }
+    ]
+  },
+  "schemes": {
+    "dorpo": {
+      "slug": "dorpo",
+      "name": "ரைசோபியம் பாக்கெட்டுகள்-எண்ணெய் வித்துக்கள் விநியோகம்",
+      "short_title": "DORPO",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "ரைசோபியம்",
+        "எண்ணெய் வித்துக்கள்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/dorpo",
+      "description": "\"ரைசோபியம் பாக்கெட்டுகள்-எண்ணெய் வித்துக்கள் விநியோகம்\" திட்டம், அறுவடை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து வழங்கும் தகுதியான விவசாயிகளுக்கு ரைசோபியம் விலையில் மானியத்தை வழங்குகிறது.",
+      "benefits": "- * உதவியின் அளவு: * ரைசோபியம் விலைக்கு 50 சதவீதம் அல்லது ஹெக்டேருக்கு ரூ. 100/- இதில் எது குறைவோ அது",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி அறக்கட்டளை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து துறைக்கு வழங்க வேண்டும். பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - விதை உற்பத்தி மற்றும் விநியோகச் சான்றிதழ் துறைக்கு வழங்குதல். - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pcwfstfpi": {
+      "slug": "pcwfstfpi",
+      "name": "மூலத்திலிருந்து வயல்-பருப்புகளுக்கு தண்ணீரை எடுத்துச் செல்லும் குழாய்கள்",
+      "short_title": "PCWFSTFPI",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "நீர்ப்பாசனம்",
+        "குழாய்கள்",
+        "பருப்புகள் ஐ. எஸ். பி. ஓ. எம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcwfstfpi",
+      "description": "இந்தத் திட்டம் விவசாயிகளுக்கு ஆதாரத்திலிருந்து தங்கள் வயல்களுக்கு தண்ணீரை எடுத்துச் செல்ல குழாய்களை நிறுவுவதற்கு மானியங்களை வழங்குகிறது, 50 சதவீத மானியத்தை வழங்குகிறது அல்லது பி. வி. சி, எச். டி. பி. இ மற்றும் பிறவற்றை உள்ளடக்கிய குழாய்களுக்கு (800 மீட்டர் வரை) ரூ. 15,000/- வரை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: விவசாயிகளின் தேவைக்கேற்ப அனைத்து வகையான குழாய்கள் (பி. வி. சி. எச். டி. பி. இ. போன்றவை) மற்றும் அனைத்து அளவிலான குழாய்களுக்கு 50 சதவீதம் செலவு அல்லது ரூ. 15,000/- மானியம். & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pcwfsf": {
+      "slug": "pcwfsf",
+      "name": "ஆதாரத்திலிருந்து வயலுக்கு தண்ணீரை எடுத்துச் செல்லும் குழாய்கள்",
+      "short_title": "PCWFSF",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "நீர்ப்பாசனம்",
+        "குழாய்கள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcwfsf",
+      "description": "இந்தத் திட்டம் விவசாயிகளுக்கு ஆதாரத்திலிருந்து தங்கள் வயல்களுக்கு தண்ணீரை எடுத்துச் செல்ல குழாய்களை நிறுவுவதற்கு மானியங்களை வழங்குகிறது, 50 சதவீத மானியத்தை வழங்குகிறது அல்லது பி. வி. சி, எச். டி. பி. இ மற்றும் பிறவற்றை உள்ளடக்கிய குழாய்களுக்கு (800 மீட்டர் வரை) ரூ. 15,000/- வரை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: விவசாயிகளின் தேவைக்கேற்ப 50 சதவீதம் செலவில் மானியம் அல்லது 800 மீட்டர் வரை நீர் கொண்டு செல்லும் குழாய்கள் மற்றும் அனைத்து வகையான குழாய்கள் (பி. வி. சி எச். டி. பி. இ போன்றவை) மற்றும் அனைத்து அளவுகளுக்கும் ரூ. 15,000/- மானியம்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "oapsucmupt": {
+      "slug": "oapsucmupt",
+      "name": "முதலமைச்சரின் உழவர் பதுகாப்பு திட்டத்தின் கீழ் முதியோர் ஓய்வூதியத் திட்டம்",
+      "short_title": "OAPSUCMUPT",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment",
+        "Social welfare & Empowerment"
+      ],
+      "tags": [
+        "விவசாயிகள்",
+        "ஓய்வூதியம்",
+        "நிதி உதவி",
+        "மூத்த குடிமகன்",
+        "உழைப்பு"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/oapsucmupt",
+      "description": "'முதலமைச்சரின் உழவர் பதுகாப்பு திட்டத்தின் கீழ் முதியோர் ஓய்வூதியத் திட்டம்' என்பது ஒரு மாநிலத் திட்டமாகும். இந்தத் திட்டம் சி. எம். பி. யு. டி. யின் கீழ் உறுப்பினர் அட்டையைக் கொண்ட முதியோர் விவசாயிகள் மற்றும் ஆதரவற்ற விவசாயத் தொழிலாளர்களுக்கு ரூ. 1,000/- ஓய்வூதியம் வழங்குவதை நோக்கமாகக் கொண்டுள்ளது.",
+      "benefits": "* ஓய்வூதியம்: * *-மாதத்திற்கு ₹1,000/-. * பொங்கல் மற்றும் தீபாவளியின் போது இலவச ஆடைகள்: * * ஆண் ஓய்வூதியதாரருக்கு ஒரு இலவச வேட்டி.-பெண் ஓய்வூதியதாரருக்கு ஒரு இலவச சேலை. * * அங்கன்வாடி மையங்களில் இலவச அரிசி: * * சத்தான உணவை உட்கொள்பவர்களுக்கு மாதத்திற்கு 2 கிலோ. சத்தான உணவை உட்கொள்ளாதவர்களுக்கு மாதத்திற்கு 4 கிலோ.",
+      "eligibility": "1. விண்ணப்பதாரர் ஆதரவற்றவராக இருக்க வேண்டும். 1. விண்ணப்பதாரரின் வயது 60 வயது மற்றும் அதற்கு மேல் இருக்க வேண்டும். 1. விண்ணப்பதாரர் விவசாயியாகவோ அல்லது நிலமற்ற விவசாயத் தொழிலாளியாகவோ இருக்க வேண்டும். 1. விண்ணப்பதாரரின் நிலையான சொத்துக்கள் ₹ 1,00,000-க்கு மிகாமல் இருக்க வேண்டும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: இணையவழியில் (Online) - via CSC படி 1: விண்ணப்பதாரர் சம்பந்தப்பட்ட திட்டத்திற்கு விண்ணப்பிக்க தேவையான ஆவணங்களின் நகல்களை சேகரிக்க வேண்டும். படி 2: விண்ணப்பதாரர் அருகிலுள்ள இடத்திற்குச் செல்ல வேண்டும் பொது சேவை மையம் (சிஎஸ்சி) மற்றும் பயோமெட்ரிக் சரிபார்ப்பு செயல்முறையை முடிக்கவும். படி 3: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் பூர்த்தி செய்து, அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் பதிவேற்றவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீதில் சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம் போன்ற அத்தியாவசிய விவரங்கள் மற்றும் ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- விண்ணப்பதாரரின் புகைப்படம். - ஆதார் அட்டை. - வயதுக்கான சான்று. - ஆதார் ஒப்புதல் படிவம். - ஸ்மார்ட் ரேஷன் கார்டு அல்லது ஏதேனும் முகவரி சான்று. - சி. எம். பி. யு. டி. இன் கீழ் உறுப்பினர் அட்டை. - விண்ணப்பதாரரின் சுய பிரகடனம். - எந்தவொரு அடையாளச் சான்றும் (வாக்காளர் அடையாள அட்டை, பாஸ்போர்ட், பான் கார்டு, ஓட்டுநர் உரிமம்). - வங்கி பாஸ் புக்."
+    },
+    "pocsm": {
+      "slug": "pocsm",
+      "name": "மக்காச்சோளம் சான்றளிக்கப்பட்ட விதைகள் உற்பத்தி",
+      "short_title": "POCSM",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "சான்றளிக்கப்பட்ட விதைகள்",
+        "விதைகள் உற்பத்தி",
+        "மக்காச்சோளம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pocsm",
+      "description": "\"மக்காச்சோளத்தின் சான்றளிக்கப்பட்ட விதைகள் உற்பத்தி\" திட்டம், தமிழ்நாட்டின் தேர்ந்தெடுக்கப்பட்ட மாவட்டங்களில் உள்ள விவசாயிகளுக்கு மானியம் வழங்குவதன் மூலம் சான்றளிக்கப்பட்ட மக்காச்சோள விதைகளின் உற்பத்தியை ஊக்குவிப்பதை நோக்கமாகக் கொண்டுள்ளது.",
+      "benefits": "* நிதி உதவி: * ₹, 1000/- ஒரு குவிண்டாலுக்கு",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி மக்காச்சோளம் பயிரிடும் விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டின் பின்வரும் எந்த மாவட்டத்தையும் சேர்ந்தவராக இருக்க வேண்டும். கோயம்புத்தூர், தூத்துக்குடி, ஈரோடு, தருமபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, வில்லுபுரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி மற்றும் தூத்துக்குடி. பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்திக்கான சான்றிதழ். - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "dccbssi": {
+      "slug": "dccbssi",
+      "name": "மாவட்ட மத்திய கூட்டுறவு வங்கிகள் மற்றும் அதன் கிளைகள் மூலம்: எஸ்எஸ்ஐ அலகு கடன் மற்றும் பிற என்எப்எஸ் செயல்பாடுகளுக்கு",
+      "short_title": "DCCBSSI",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Banking",
+        "Financial Services and Insurance",
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "எஸ்எஸ்ஐ அலகு கடன்",
+        "பண்ணை சாரா துறை செயல்பாடுகள்",
+        "விவசாயம்",
+        "தொழிற்சாலைகள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/dccbssi",
+      "description": "இந்தத் திட்டம் மாவட்ட மத்திய கூட்டுறவு வங்கிகள் மற்றும் அவற்றின் கிளைகள் மூலம் எஸ்எஸ்ஐ அலகுக் கடன்கள் மற்றும் பிற பண்ணை சாரா துறை (என்எப்எஸ்) நடவடிக்கைகளுக்கு நிதி உதவியை வழங்குகிறது.",
+      "benefits": "- * * கடனுக்கான அணுகல்: * * ₹ 1,00,000-- * * வட்டி விகிதம்: * * 13 சதவீதம் (மாற்றத்திற்கு உட்பட்டு).",
+      "eligibility": "பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்-சிறு தொழில்கள் (எஸ். எஸ். ஐ) அலகு மற்றும் பிற பண்ணை சாரா துறை (என். எஃப். எஸ்) நடவடிக்கைகளுக்கு மட்டுமே கடன்கள் பொருந்தும். பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் மாவட்ட மத்திய கூட்டுறவு வங்கிகள் அல்லது அதன் கிளைகளிலிருந்து விண்ணப்ப படிவத்தை சேகரிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட அதிகாரியிடம் சமர்ப்பிக்கவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார், பான் கார்டு போன்றவை). - முகவரிச் சான்று. - சிறு தொழில்கள் (எஸ்எஸ்ஐ) அலகு பதிவு (பொருந்தினால்). - வணிகத் திட்டம் அல்லது திட்ட அறிக்கை (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "dor": {
+      "slug": "dor",
+      "name": "ரைசோபியம் விநியோகம்",
+      "short_title": "DOR",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "ரைசோபியம்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/dor",
+      "description": "\"ரைசோபியம் விநியோகம்\" திட்டம் தமிழ்நாட்டில் பருப்பு வகைகளுடன் விதைப் பண்ணைகளை வளர்க்கும் விவசாயிகளுக்கு ரைசோபியம் செலவில் மானியத்தை வழங்குகிறது.",
+      "benefits": "- * உதவியின் அளவு: * ரைசோபியம் விலைக்கு 50 சதவீதம் அல்லது ஹெக்டேருக்கு ரூ. 100/- இதில் எது குறைவோ அது",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதைப் பண்ணைகளை வளர்க்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - பருப்பு வகைகள் பயிர் சாகுபடியின் சான்று. - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "obdopmtig": {
+      "slug": "obdopmtig",
+      "name": "நிலக்கடலையில் பாலிதீன் தழை தொழில்நுட்பம் குறித்த தொகுதி ஆர்ப்பாட்டத்தை ஏற்பாடு செய்தல்",
+      "short_title": "OBDOPMTIG",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "தடுப்பு ஆர்ப்பாட்டம்",
+        "பாலிதீன் மூலக்கூறு தொழில்நுட்பம்",
+        "நிலக்கடலை"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/obdopmtig",
+      "description": "நிலக்கடலை சாகுபடியில் உற்பத்தித்திறனை மேம்படுத்துவதற்காக பாலிதீன் தழைக்கூளம் தொழில்நுட்பத்தை பயன்படுத்த விவசாயிகளுக்கு இத்திட்டம் நிதி உதவி வழங்குகிறது.",
+      "benefits": "- * * நிதி உதவி: * * ஆர்ப்பாட்டத்தை ஏற்பாடு செய்வதற்கான இடுபொருள்களின் செலவுக்காக ₹4,000/- உதவியும், ஒரு ஹெக்டேருக்கு பாலிதீன் தாள் கொண்ட நிலத்தை மூடுவதற்கு ₹4,000/- உதவியும் வழங்கப்படும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி அறக்கட்டளை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து துறைக்கு வழங்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்தி மற்றும் திணைக்களத்திற்கு வழங்குவதற்கான சான்று. - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "dogos": {
+      "slug": "dogos",
+      "name": "ஜிப்சம்-எண்ணெய் விதைகள் விநியோகம்",
+      "short_title": "DOGOS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விதை விநியோகம்",
+        "ஜிப்சம்",
+        "எண்ணெய் விதைகள்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/dogos",
+      "description": "\"ஜிப்சம்-எண்ணெய் விதைகள் விநியோகம்\" திட்டம் ஜிப்சம் பொருட்களின் விலை மற்றும் போக்குவரத்து செலவில் மானியத்தை வழங்குகிறது, அறக்கட்டளை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து வழங்கும் விவசாயிகளுக்கு.",
+      "benefits": "* * நிதி உதவி: * * பொருட்களின் செலவில் 50 சதவீதம் மற்றும் போக்குவரத்து ஹெக்டேருக்கு ரூ. 750/- இதில் எது குறைவோ அதுவாக மட்டுப்படுத்தப்பட்டுள்ளது.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி விதை உற்பத்தியில் ஈடுபட்டிருக்க வேண்டும். பயனாளி அறக்கட்டளை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து துறைக்கு வழங்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (எ. கா. ஆதார் அட்டை) - நில உரிமை/குத்தகை ஒப்பந்தத்தின் சான்று - விதை உற்பத்தி சான்றிதழ் மற்றும் துறைக்கு வழங்குதல் (அறக்கட்டளை/சான்றளிக்கப்பட்ட வகுப்பு). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "dalps": {
+      "slug": "dalps",
+      "name": "ஆதரவற்ற விவசாயத் தொழிலாளர்கள் ஓய்வூதியத் திட்டம்",
+      "short_title": "DALPS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Social welfare & Empowerment",
+        "Women and Child",
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "ஆதரவற்றவர்",
+        "விவசாயி",
+        "நிதி உதவி",
+        "உழைப்பு",
+        "மூத்த குடிமகன்",
+        "ஆடைகள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/dalps",
+      "description": "\"ஆதரவற்ற விவசாயத் தொழிலாளர்கள் ஓய்வூதியத் திட்டம்\" தமிழ்நாடு அரசின் சமூக நலம் மற்றும் சத்துணவுத் திட்டத் துறையால் தொடங்கப்பட்டது. 60 வயது மற்றும் அதற்கு மேற்பட்ட ஆதரவற்ற விவசாயத் தொழிலாளர்களுக்கு ரூ. 1,000/- ஓய்வூதியம் வழங்குவதையும், பண்டிகைகளில் வேட்டி, சேலை வழங்குவதையும் இந்தத் திட்டம் நோக்கமாகக் கொண்டுள்ளது.",
+      "benefits": "* ஓய்வூதியம்: * *-மாதத்திற்கு ₹1,000/-. * பொங்கல் மற்றும் தீபாவளியின் போது இலவச ஆடைகள்: * * ஆண் ஓய்வூதியதாரருக்கு ஒரு இலவச வேட்டி.-பெண் ஓய்வூதியதாரருக்கு ஒரு இலவச சேலை. * * அங்கன்வாடி மையங்களில் இலவச அரிசி: * * சத்தான உணவை உட்கொள்பவர்களுக்கு மாதத்திற்கு 2 கிலோ. சத்தான உணவை உட்கொள்ளாதவர்களுக்கு மாதத்திற்கு 4 கிலோ.",
+      "eligibility": "1. விண்ணப்பதாரர் ஆதரவற்ற விவசாயத் தொழிலாளியாக இருக்க வேண்டும். 1. விண்ணப்பதாரர் 60 வயது மற்றும் அதற்கு மேற்பட்டவராக இருக்க வேண்டும். 1. விண்ணப்பதாரருக்கு வருமான ஆதாரம் அல்லது வாழ்வாதாரம் எதுவும் இருக்கக் கூடாது. 1. விண்ணப்பதாரர் ஒரு பழக்கமான பிச்சைக்காரராக இருக்கக்கூடாது. 1. விண்ணப்பதாரர் ₹5,000/- க்கு மேல் மதிப்புள்ள சொத்துக்களை வைத்திருக்கக் கூடாது. 1. விண்ணப்பதாரர் 20 வயது அல்லது அதற்கு மேற்பட்ட மகன் அல்லது மகனால் ஆதரிக்கப்படக்கூடாது.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் (அலுவலக நேரத்தில்) சிறப்பு தாசில்தார்/கிராம நிர்வாக அதிகாரியைப் பார்வையிட வேண்டும் மற்றும் பூர்த்தி செய்யப்பட்ட விண்ணப்பங்களை வழங்குவதற்கும் சேகரிப்பதற்கும் பிரத்தியேகமாக ஒப்படைக்கப்பட்ட ஊழியர்களிடமிருந்து விண்ணப்ப படிவத்தின் பரிந்துரைக்கப்பட்ட வடிவத்தின் கடின நகலைக் கோர வேண்டும். அல்லது தி ஆர்வமுள்ள விண்ணப்பதாரர் ஒரு வெள்ளை காகிதத்துடன் திட்டத்திற்கு விண்ணப்பிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் பூர்த்தி செய்து, அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சிறப்பு வட்டாட்சியர்/கிராம நிர்வாக அதிகாரியிடம் சமர்ப்பிக்கவும். படி 4: விண்ணப்பத்தை சமர்ப்பித்த சிறப்பு வட்டாட்சியர்/கிராம நிர்வாக அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோருங்கள். ரசீதில் சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம் போன்ற அத்தியாவசிய விவரங்கள் மற்றும் ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- ஆதார் அட்டை. - வயதுச் சான்று. - வங்கி பாஸ் புக். - தேவைப்பட்டால் வேறு ஏதேனும் ஆவணம்."
+    },
+    "domoppe": {
+      "slug": "domoppe",
+      "name": "கையால் இயக்கப்படும் தாவர பாதுகாப்பு உபகரணங்கள் விநியோகம்",
+      "short_title": "DOMOPPE",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "உபகரணங்கள் விநியோகம்",
+        "கையால் இயக்கப்படும் உபகரணங்கள்",
+        "தாவரப் பாதுகாப்புக் கருவிகள்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/domoppe",
+      "description": "\"கையால் இயக்கப்படும் தாவர பாதுகாப்பு உபகரணங்கள் விநியோகம்\" திட்டம் விவசாயிகளுக்கு விவசாய நடைமுறைகளை மேம்படுத்துவதற்கான உபகரணங்களின் விலையில் 50 சதவீதம் மானியத்தை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: உபகரணங்களின் விலைக்கு 50 சதவீதம் மானியம் அல்லது ரூ. 800/- இதில் எது குறைவோ அது வழங்கப்படும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதை பண்ணைகளை வளர்க்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - பருப்பு வகைகளுடன் கூடிய விதைப் பண்ணையின் சான்று. - வாங்கிய உபகரணங்களின் பில் அல்லது ரசீது. - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - ஒரு பண்ணை பெண் என்பதற்கான சான்று (பொருந்தினால்). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "qpsd": {
+      "slug": "qpsd",
+      "name": "தரமான நெல் விதை விநியோகம்",
+      "short_title": "QPSD",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "நெல்",
+        "விதை உற்பத்தி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/qpsd",
+      "description": "தரமான நெல் விதை விநியோகத் திட்டம், சான்றளிக்கப்பட்ட நெல் விதைகளுக்கு கிலோ ஒன்றுக்கு ரூ. 5/- மானியத்தை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: சான்றளிக்கப்பட்ட நெல் விதைகளுக்கு கிலோ ஒன்றுக்கு ரூ. 5/- மானியம். & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி விவசாய விரிவாக்க மையங்களில் இருந்து சான்றளிக்கப்பட்ட நெல் விதைகளை வாங்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "isfepqiisaradocphicdscnosiccd": {
+      "slug": "isfepqiisaradocphicdscnosiccd",
+      "name": "ஏலக்காய் ஏற்றுமதி ஊக்குவிப்பு மற்றும் மசாலாப் பொருட்களின் தர மேம்பாடு மற்றும் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: அறுவடைக்குப் பிந்தைய மேம்பாடு: சிறிய ஏலக்காய்க்கான ஐ. சி. சி. டி. (மேம்படுத்தப்பட்ட ஏலக்காய் குணப்படுத்தும் சாதனங்கள்)",
+      "short_title": "ISFEPQIISARADOCPHICDSCNOSICCD",
+      "level": "Central",
+      "state": "Kerala, Tamil Nadu, Karnataka",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment",
+        "Business & Entrepreneurship"
+      ],
+      "tags": [
+        "சிறிய ஏலக்காய்",
+        "மசாலா பலகை",
+        "விவசாயம்",
+        "விவசாயம்",
+        "விவசாயி"
+      ],
+      "ministry": "Ministry Of Commerce And Industry",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/isfepqiisaradocphicdscnosiccd",
+      "description": "சிறிய ஏலக்காயை உலர்த்துவதற்கு மேம்படுத்தப்பட்ட ஏலக்காய் குணப்படுத்தும் சாதனங்களை (ஐ. சி. சி. டி) பின்பற்ற ஏலக்காய் விவசாயிகளை ஊக்குவிப்பதை இந்தத் திட்டம் நோக்கமாகக் கொண்டுள்ளது, இதன் மூலம் விளைபொருட்களின் தரத்தை மேம்படுத்துவதோடு ஏற்றுமதியை மேலும் மேம்படுத்தவும் முடியும்.",
+      "benefits": "அடையாளம் காணப்பட்ட கிளஸ்டர்களில் உள்ள எஸ்சி/எஸ்டி மற்றும் 90 சதவீதம் மசாலா உற்பத்தியாளர் குழுக்களுக்கு ஒரு யூனிட்டுக்கு அதிகபட்சமாக ரூ. 347,500/- க்கு உட்பட்டு, யூனிட் செலவில் 33.33 சதவீதம், பொதுப் பிரிவினருக்கு ஒரு யூனிட்டுக்கு அதிகபட்சமாக ரூ. 150,000/- க்கும் உட்பட்டு, அதிகபட்சமாக ரூ. 40 ஹெக்டேர் முதல் 8 ஹெக்டேர் வரை நிலம் வைத்திருக்கும் பதிவுசெய்யப்பட்ட ஏலக்காய் விவசாயிகள் குழுக்கள்/எஃப். பி. ஓ. க்களுக்கு உதவி கியூ. ஜி. பி. ஜி. யில் உள்ளபடி இருக்கும்",
+      "eligibility": "1. விண்ணப்பதாரர் கேரளா, தமிழ்நாடு மற்றும் தமிழ்நாட்டைச் சேர்ந்தவராக இருக்க வேண்டும் கர்நாடகா. 2. நியமிக்கப்பட்ட அதிகாரிகள் இறுதி ஆய்வு நடத்தி தகுதியான வழக்குகளை பரிந்துரைப்பார்கள்",
+      "application_process": "விண்ணப்பிக்கும் முறை: இணையவழியில் (Online) Registration Step 1: The applicant should visit the ServicesPlus website. Step 2: Click on the “ Register” option on the homepage. Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha. Step 4: Review all details carefully and submit the registration form. Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.” Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email. Login Step 1: The applicant should visit the ServicesPlus website and click on “Login.” Step 2: Enter your Email ID, Password, and Captcha. Step 3: Select the relevant service/scheme name. Step 4: Fill in the required details in the application form. Step 5: Submit the application.",
+      "documents_required": "அ) ஆதார் அட்டை ஆ) நடப்பு ஆண்டு நிலவரி ரசீது/சித்தா அடங்கல் இ) வங்கி பாஸ் புத்தகம் ஈ) சி. ஆர்/ஏ. சி. ஆர் ஈ) மசாலா வாரியத்தால் பட்டியலிடப்பட்ட உபகரணங்கள்/சாதனங்களின் செல்லுபடியாகும் உற்பத்தியாளரிடமிருந்து வாங்குவதற்கான விலைப்பட்டியல் மற்றும் கட்டண ஆவணங்கள்"
+    },
+    "obdtdaattnau": {
+      "slug": "obdtdaattnau",
+      "name": "துறை மூலமாகவும், தமிழ்நாடு தேசிய பல்கலைக்கழகத்தின் மூலமாகவும் தொகுதி ஆர்ப்பாட்டத்தை ஏற்பாடு செய்தல்",
+      "short_title": "OBDTDAATTNAU",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "தடுப்பு ஆர்ப்பாட்டம்",
+        "மக்காச்சோளம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/obdtdaattnau",
+      "description": "\"துறை மூலமாகவும், தமிழ்நாடு வேளாண்மைப் பல்கலைக்கழகம் மூலமாகவும் தொகுதிக் காட்சிகளை ஏற்பாடு செய்தல்\" என்ற திட்டம் மக்காச்சோள சாகுபடிக்கு விவசாயிகளுக்கு மானியங்களை வழங்குகிறது. 1 ஹெக்டேர் நிலப்பரப்பில் சாகுபடி நடைமுறைகளை நிரூபிக்க விவசாயிகள் மானியத்தைப் பெறலாம்.",
+      "benefits": "* * நிதி உதவி: * * ₹4,000/- ஒவ்வொரு 1 ஹெக்டேர் நிலப்பரப்புக்கும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பின்வரும் மாவட்டங்களில் மக்காச்சோளத்தை பயிரிட வேண்டும்: கோயம்புத்தூர், தூத்துக்குடி, ஈரோடு, தருமபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, வில்லுபுரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி மற்றும் தூத்துக்குடி. பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - மக்காச்சோளம் சாகுபடி/விவசாயத்தின் சான்று. - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - சிறு/குறு விவசாயி அந்தஸ்துக்கான சான்று (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "isfepqiisaradocscildie": {
+      "slug": "isfepqiisaradocscildie",
+      "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறிய ஏலக்காய் நீர்ப்பாசன நில மேம்பாடு: நீர்ப்பாசன உபகரணங்கள் (எண்",
+      "short_title": "ISFEPQIISARADOCSCILDIE",
+      "level": "Central",
+      "state": "Kerala, Karnataka, Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "ஈர்ப்பு கருவிகள்",
+        "நீர்ப்பாசன பம்ப்",
+        "மைக்ரோ ஸ்ப்ரிங்க்லர் தொகுப்புகள்",
+        "விவசாயி"
+      ],
+      "ministry": "Ministry Of Commerce And Industry",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/isfepqiisaradocscildie",
+      "description": "சிறிய ஏலக்காய் உற்பத்தியை அதிகரிப்பதற்கும், சிறிய ஏலக்காய் உற்பத்தியின் தரத்தை மேம்படுத்துவதற்கும், அதிக நிலப்பரப்பை நீர்ப்பாசனம் மற்றும் நில மேம்பாட்டின் கீழ் கொண்டு வர சிறு ஏலக்காய் விவசாயிகளை ஊக்குவிப்பதே இத்திட்டத்தின் நோக்கமாகும்.",
+      "benefits": "1. உபகரணங்களின் விலையில் 50 சதவீதம் அதிகபட்சமாக ரூ. 5000 (ஜெனரேஷன்) மற்றும் ஈர்ப்பு விசைக்கு ரூ. 11250 (எஸ்சி/எஸ்டி) ஐபி செட்டுக்கு ₹15,000 (ஜெனரல்) மற்றும் ₹45,000 (எஸ்சி/எஸ்டி) மற்றும் ஸ்ப்ரிங்க்லர்/மைக்ரோ ஸ்பிரிங்க்லர் செட்களுக்கு ₹32,000/- (ஜெனரல்) மற்றும் ₹95,000/- (எஸ்சி/எஸ்டி). 1. 10 ஹெக்டேர் முதல் 8 ஹெக்டேர் வரை நிலம் வைத்திருக்கும் பதிவு செய்யப்பட்ட ஏலக்காய் விவசாயிகள் ஈர்ப்பு மற்றும் நீர்ப்பாசன பம்ப் செட் (ஐபி செட்) பெற தகுதியுடையவர்கள். 1. 4 ஹெக்டேர் முதல் 8 ஹெக்டேர் வரை நிலம் வைத்திருக்கும் பதிவு செய்யப்பட்ட ஏலக்காய் விவசாயிகள் தெளிப்பான்கள்/சொட்டுநீர்/நுண்ணீர் பாசன உபகரணங்களுக்கு தகுதியுடையவர்கள். * * குறிப்பு: * முன்பு இந்த பயனைப் பெற்ற எந்தவொரு விவசாயியும் இந்த பயனைப் பெற தகுதியற்றவர்",
+      "eligibility": "1. விண்ணப்பதாரர் கேரளா, தமிழ்நாடு அல்லது கர்நாடகா மாநிலங்களைச் சேர்ந்த சிறிய ஏலக்காய் உற்பத்தியாளராக இருக்க வேண்டும். 1. விண்ணப்பதாரர் அங்கீகரிக்கப்பட்ட நீர்ப்பாசன உபகரணங்களை நிறுவ வேண்டும், மேலும் நிறுவல் ஆய்வு செய்யப்பட்டு நியமிக்கப்பட்ட அதிகாரிகளால் தகுதியானதாக பரிந்துரைக்கப்பட வேண்டும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: இணையவழியில் (Online) பதிவு செய்தல் படி 1: விண்ணப்பதாரர் வருகை தர வேண்டும் சேவைகள் பிளஸ் இணையதளம். படி 2: \"என்பதைக் கிளிக் செய்க பதிவு செய்யுங்கள் \" முகப்புப்பக்கத்தில் உள்ள விருப்பத்தேர்வு. படி 3: முழு பெயர், மின்னஞ்சல் ஐடி, மொபைல் எண், கடவுச்சொல், மாநிலம் மற்றும் கேப்ட்சாவைத் தேர்ந்தெடுப்பதன் மூலம் பதிவு படிவத்தை நிரப்பவும். படி 4: அனைத்து விவரங்களையும் கவனமாக மதிப்பாய்வு செய்து பதிவு படிவத்தை சமர்ப்பிக்கவும். படி 5: உங்கள் பதிவு செய்யப்பட்ட மொபைல் எண் அல்லது மின்னஞ்சலுக்கு ஒரு ஓடிபி அனுப்பப்படும்; ஓடிபியை உள்ளிட்டு \"சரிபார்க்கவும்\" என்பதைக் கிளிக் செய்க படி 6: பதிவு வெற்றிகரமாக முடிக்கப்படும், மேலும் உறுதிப்படுத்தல் செய்தி காண்பிக்கப்படும் அல்லது மின்னஞ்சல் வழியாக அனுப்பப்படும். உள்நுழையவும் படி 1: விண்ணப்பதாரர் சர்வீசஸ் பிளஸ் வலைத்தளத்தைப் பார்வையிட்டு அதில் கிளிக் செய்ய வேண்டும் \"உள்நுழைக\" படி 2: உங்கள் மின்னஞ்சல் ஐடி, கடவுச்சொல் மற்றும் கேப்ட்சாவை உள்ளிடவும். படி 3: தொடர்புடைய சேவை/திட்டத்தின் பெயரைத் தேர்ந்தெடுக்கவும். படி 4: விண்ணப்பப் படிவத்தில் தேவையான விவரங்களை நிரப்பவும். படி 5: விண்ணப்பத்தை சமர்ப்பிக்கவும்.",
+      "documents_required": "அ) நிலத்தின் உரிமை அல்லது சட்டப்பூர்வ உடைமைக்கான ஆவணம் அதாவது பட்டா ஆ) நடப்பு ஆண்டு நிலவரி ரசீது/ஆர். டி. சி/சிட்டா அடங்கல் இ) சி. ஆர்/ஏ. சி. ஆர்/சி. டி. ஆர். சி ஒப்புதல் ஈ) ஆதார் அட்டை இ) வங்கி பாஸ் புத்தகம் f) அங்கீகரிக்கப்பட்ட டீலரிடமிருந்து ஒரு மேற்கோள் அல்லது அங்கீகரிக்கப்பட்ட டீலர் இல்லையென்றால் மூன்று போட்டி மேற்கோள்கள்."
+    },
+    "donpv": {
+      "slug": "donpv",
+      "name": "நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸின் பரவல்",
+      "short_title": "DONPV",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸ்",
+        "என்பிவி",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/donpv",
+      "description": "\"நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸின் விநியோகம்\" திட்டம் பருப்பு வகைகளுடன் விதை பண்ணைகளை வளர்க்கும் விவசாயிகளுக்கு நியூக்ளியர் பாலி ஹெட்ரோசிஸ் வைரஸை (என். பி. வி) விநியோகிக்க மானியங்களை வழங்குகிறது.",
+      "benefits": "- * உதவியின் அளவு: * * 50 சதவீதம் உள்ளீட்டு செலவு ஒரு ஹெக்டேருக்கு ரூ. 250/- ஆக மட்டுப்படுத்தப்பட்டுள்ளது",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதைப் பண்ணைகளை வளர்க்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - பருப்பு வகைகள் பயிர் சாகுபடியின் சான்று. - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "smsopm": {
+      "slug": "smsopm",
+      "name": "நெல், சிறுதானியங்கள், பருப்பு வகைகள், எண்ணெய் வித்துக்கள் மற்றும் பருத்தி ஆகியவற்றின் விதை பெருக்கத் திட்டம்",
+      "short_title": "SMSOPM",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விதை பெருக்கம்",
+        "நெல்",
+        "பயிர்கள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/smsopm",
+      "description": "\"நெல், சிறுதானியங்கள், பருப்பு வகைகள், எண்ணெய் வித்துக்கள் மற்றும் பருத்தி ஆகியவற்றின் விதை பெருக்கத் திட்டம்\" விவசாயத் துறையுடன் ஒப்பந்தத்தின் கீழ் விதைகளை உற்பத்தி செய்ய விவசாயிகளுக்கு மானியங்களை வழங்குகிறது.",
+      "benefits": "- * * பிரீமியம்: * * விதைகள் ஒரு கிலோவுக்கு ₹1/- முதல் ₹3/- வரை இருக்கும். - * * அடித்தள வகை விதைகள்: * * எண்ணெய் விதைகளின் வகையைப் பொறுத்து, ஒரு கிலோ உள்ளூர் சந்தை விகிதத்தை விட பிரீமியம் 7.5 சதவீதம் முதல் 30 சதவீதம் வரை இருக்கும். - * * சான்றளிக்கப்பட்ட வகை விதைகளுக்கு: * குறிப்பிட்ட எண்ணெய் விதைகளின் அடிப்படையில் ஒரு கிலோ உள்ளூர் சந்தை விகிதத்தை விட பிரீமியம் 5 சதவீதம் முதல் 20 சதவீதம் வரை இருக்கும். - * * பயிற்சி: * * தன்னைப் பதிவு செய்ய விரும்பும் விவசாயிக்கு ஒவ்வொரு ஆண்டும் தொடக்கத்தில் சம்பந்தப்பட்ட அதிகாரிகளால் பயிற்சி வழங்கப்படும்",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்.-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்.-பயனாளி ஒப்பந்த அடிப்படையில் விவசாயத் துறைக்கு விதைகளை உற்பத்தி செய்து வழங்க வேண்டும்.-விதைப் பண்ணைகள் அந்தந்த தொகுதிகளின் வேளாண் உதவி இயக்குநரால் பதிவு செய்யப்பட வேண்டும்.-களத்தில் பயிரிடப்படும் விளைபொருட்கள் சான்றிதழ் தரநிலைகளில் குறிப்பிடப்பட்டுள்ள உடல்/மரபணு தூய்மை, ஈரப்பதம் மற்றும் முளைப்பு சதவீதம் ஆகியவற்றின் தரங்களை பூர்த்தி செய்ய வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்தி மற்றும் ஒப்பந்த அடிப்படையில் விவசாயத் துறைக்கு வழங்குவதற்கான சான்று. - விதை பண்ணை பதிவு விவரங்கள். - விதை சான்றளிப்புத் துறையால் வழங்கப்பட்ட சான்றிதழ் குறிச்சொல். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pofs": {
+      "slug": "pofs",
+      "name": "அடித்தள விதைகள் உற்பத்தி",
+      "short_title": "POFS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விதை உற்பத்தி",
+        "அடித்தள விதைகள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pofs",
+      "description": "\"அடித்தள விதைகள் உற்பத்தி\" திட்டம், பருப்பு வகைகளுக்கான விதைப் பண்ணைகளை பயிரிடும் விவசாயிகளுக்கு மானியங்களை வழங்குகிறது, இது எஸ்சி/எஸ்டி விவசாயிகள் மற்றும் விவசாயப் பெண்களுக்கு குறிப்பிட்ட நன்மைகளை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: குவிண்டாலுக்கு ₹1,000/-.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதை பண்ணைகளை வளர்க்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்திக்கான சான்றிதழ். - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pcardsia": {
+      "slug": "pcardsia",
+      "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: பாசனப் பகுதிகளில் பட்டு வளர்ப்புக்கு",
+      "short_title": "PCARDSIA",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment",
+        "Banking",
+        "Financial Services and Insurance"
+      ],
+      "tags": [
+        "பட்டுப்புழு வளர்ப்பு",
+        "கடன்",
+        "விவசாயி",
+        "விவசாயம் மற்றும் கிராமப்புற மேம்பாட்டு வங்கி",
+        "பாசனப் பகுதி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcardsia",
+      "description": "இத்திட்டம் பாசனப் பகுதிகளில் பட்டுப்புழு வளர்ப்பு நடவடிக்கைகளுக்காக விவசாயிகளுக்கு ஏக்கருக்கு ரூ. 49,000/- முதல் ரூ. 79,000/- வரையிலும், வட்டி விகிதங்கள் 11 சதவீதம் முதல் 12.75 சதவீதம் வரையிலும் கடன் வழங்குகிறது.",
+      "benefits": "- * * கடனுக்கான அணுகல்: * * ஒரு ஏக்கருக்கு ரூ. 49,000/- முதல் ரூ. 79,000/- வரை கடன் தொகை. * * வட்டி விகிதம்: * * 11 சதவீதம் முதல் 12.75 சதவீதம் வரை (மாற்றத்திற்கு உட்பட்டு).",
+      "eligibility": "1. பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். 1. பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். 1. பயனாளி நீர்ப்பாசனப் பகுதிகளுக்குள் பட்டு வளர்ப்பு நடவடிக்கைகளில் ஈடுபட வேண்டும். 1. பட்டுப்புழு வளர்ப்பு நடவடிக்கைகளுக்கு கடன் பெற பயனாளி ஆர்வமாக இருக்க வேண்டும். 1. பயனாளி கடனை குறிப்பாக பட்டுப்புழு வளர்ப்பு நடவடிக்கைகளுக்கு பயன்படுத்த வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி-1: ஆர்வமுள்ள விண்ணப்பதாரர் தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கியின் செயலாளர்/சிறப்பு அதிகாரியைத் தொடர்புகொண்டு விண்ணப்பப் படிவத்தை சேகரிக்க வேண்டும். படி-2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி-3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட அதிகாரியிடம் சமர்ப்பிக்கவும். படி-4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார், பான் கார்டு போன்றவை). - முகவரிச் சான்று. - பட்டு வளர்ப்பு நடவடிக்கைகளில் ஈடுபட்டதற்கான சான்று (தேவைப்பட்டால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "vcfrsk": {
+      "slug": "vcfrsk",
+      "name": "கர்நாடகாவில் உள்ள ஆராய்ச்சி நிலையங்களுக்கு ஒப்பந்த விவசாய விவசாயிகள் வருகை",
+      "short_title": "VCFRSK",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "ஒப்பந்த விவசாயம்",
+        "ஆராய்ச்சி நிலையங்கள் வருகை"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/vcfrsk",
+      "description": "\"கர்நாடகாவில் உள்ள ஆராய்ச்சி நிலையங்களுக்கு ஒப்பந்த விவசாய விவசாயிகளின் வருகை\" என்ற திட்டம், ஒப்பந்த விவசாய விவசாயிகளுக்கு கர்நாடகம் முழுவதும் உள்ள ஆராய்ச்சி நிலையங்களுக்குச் சென்று விவசாய அறிவைப் பெற உதவுகிறது. 3 நாள் பயணத்திற்கு நிதி உதவி வழங்கப்படுகிறது.",
+      "benefits": "- * * நிதி உதவி: * * ₹ 1,12,500-50 விவசாயிகளின் ஒரு குழுவிற்கு 3 நாட்களுக்கு. * * * கற்றல் திட்டம்: * * சமீபத்திய விவசாய ஆராய்ச்சி மற்றும் புதுமைகளை வெளிப்படுத்துதல்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pofacs": {
+      "slug": "pofacs",
+      "name": "அடித்தளம் மற்றும் சான்றளிக்கப்பட்ட விதைகளின் உற்பத்தி",
+      "short_title": "POFACS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "சான்றளிக்கப்பட்ட விதைகள்",
+        "விதை உற்பத்தி",
+        "அடித்தள விதைகள்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pofacs",
+      "description": "\"அடித்தளம் மற்றும் சான்றளிக்கப்பட்ட விதைகள் உற்பத்தி\" திட்டம், விவசாயத் துறைக்கு அடித்தளம் மற்றும் சான்றளிக்கப்பட்ட விதைகளை உற்பத்தி செய்து வழங்கும் விவசாயிகளுக்கு மானியத்தை வழங்குகிறது.",
+      "benefits": "நிதி உதவி: குவிண்டாலுக்கு ₹1,000/-.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி அறக்கட்டளை அல்லது சான்றளிக்கப்பட்ட விதைகளை உற்பத்தி செய்து துறைக்கு வழங்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்தி மற்றும் வழங்கலுக்கான சான்றிதழ். - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "mns": {
+      "slug": "mns",
+      "name": "நுண் ஊட்டச்சத்து தெளிப்பு",
+      "short_title": "MNS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "நுண் ஊட்டச்சத்து தெளிப்பு",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/mns",
+      "description": "எஸ்சி/எஸ்டி மற்றும் பெண் விவசாயிகளுக்கு நன்மைகளை உறுதி செய்வதில் கவனம் செலுத்தும் வகையில், \"மைக்ரோ நியூட்ரியன்ட் ஸ்ப்ரே\" திட்டம் தகுதியான விவசாயிகளுக்கு ஹெக்டேருக்கு 50 சதவீதம் மானியம் அல்லது 70/- ரூபாய் வழங்குகிறது.",
+      "benefits": "நிதி உதவி: நுண்ணூட்டச்சத்து தெளிப்புக்கு ஹெக்டேருக்கு 50 சதவீதம் மானியம் அல்லது 70/- ரூபாய். & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "obd": {
+      "slug": "obd",
+      "name": "தடுப்பு ஆர்ப்பாட்டம் ஏற்பாடு செய்தல்",
+      "short_title": "OBD",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "தடுப்பு ஆர்ப்பாட்டம்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/obd",
+      "description": "5 ஹெக்டேருக்கு மேல் பயிரிடப்படும் பருப்பு வகைகளின் சாகுபடியை நிரூபிப்பதற்கான இடுபொருள் செலவுகளுக்கு 50 சதவீதம் மானியம் அல்லது ரூ. 2,000/- (இதில் எது குறைவோ அது) இந்த திட்டம் வழங்குகிறது.",
+      "benefits": "* * நிதி உதவி: * * தலா 5 ஹெக்டேர் நிலப்பரப்பை அமைப்பதற்குத் தேவையான இடுபொருள்களின் செலவில் 50 சதவீதம் மானியம் அல்லது ரூ. 2,000/- இதில் எது குறைவோ அது மானியமாக வழங்கப்படும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் கூடிய விதைப் பண்ணைகளை பயிரிட வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தங்கள். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pocs": {
+      "slug": "pocs",
+      "name": "சான்றளிக்கப்பட்ட விதைகளின் உற்பத்தி",
+      "short_title": "POCS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "சான்றளிக்கப்பட்ட விதைகள்",
+        "விதைகள் உற்பத்தி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pocs",
+      "description": "\"சான்றளிக்கப்பட்ட விதைகள் உற்பத்தி\" திட்டம், பருப்பு வகைகளின் சான்றளிக்கப்பட்ட விதைகளை உற்பத்தி செய்ய விவசாயிகளுக்கு மானியத்தை வழங்குகிறது.",
+      "benefits": "* நிதி உதவி: * * குவிண்டாலுக்கு ரூ. 1000/- மானியம்",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதைப் பண்ணைகளை வளர்க்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - விதை உற்பத்திக்கான சான்றிதழ். - வங்கிக் கணக்கு விவரங்கள். - சாதி சான்றிதழ் (பொருந்தினால்). - பெண் விவசாயிகள் குழு பதிவு ஆவணங்கள் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "ttf": {
+      "slug": "ttf",
+      "name": "விவசாயிகளுக்கு பயிற்சி",
+      "short_title": "TTF",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "மக்காச்சோளம்",
+        "பயிற்சி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/ttf",
+      "description": "விவசாய நடைமுறைகளை மேம்படுத்துவதையும் உற்பத்தித்திறனை அதிகரிப்பதையும் நோக்கமாகக் கொண்ட பல்வேறு மாவட்டங்களில் உள்ள மக்காச்சோள விவசாயிகளுக்கு \"விவசாயிகளுக்கான பயிற்சி\" திட்டம் பயிற்சி அளிக்கிறது.",
+      "benefits": "நிதி உதவி: இரண்டு நாள் பயிற்சி அமர்வில் கலந்து கொள்வதற்கு ₹300/-. பயிற்சி திட்டம்: நவீன மக்காச்சோள சாகுபடி நுட்பங்கள், பயிர் விளைச்சலை மேம்படுத்துதல் மற்றும் உள்ளீட்டு செலவுகளைக் குறைத்தல் ஆகியவை பயிற்சியில் அடங்கும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டின் பின்வரும் மாவட்டங்களில் ஏதேனும் ஒன்றில் வசிப்பவராக இருக்க வேண்டும்: கோயம்புத்தூர், தூத்துக்குடி, ஈரோடு, தருமபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, வில்லுபுரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி மற்றும் தூத்துக்குடி-பயனாளிகள் மக்காச்சோளம் பயிரிட வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "ft": {
+      "slug": "ft",
+      "name": "விவசாயிகளுக்கு பயிற்சி",
+      "short_title": "FT",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "பயிற்சி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/ft",
+      "description": "\"விவசாயிகள் பயிற்சி\" திட்டம் ஒரு கிளஸ்டருக்கு 50 விவசாயிகள் அல்லது விவசாயத் தொழிலாளர்களை உள்ளடக்கிய பயிற்சி அமர்வுகளுக்கு நிதி உதவி வழங்குகிறது.",
+      "benefits": "நிதி உதவி: 50 விவசாயிகள்/விவசாயத் தொழிலாளர்களுக்கு பயிற்சி அமர்வுக்கு ரூ. 5,000/-.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி விவசாய திறன்களை மேம்படுத்த பயிற்சியில் சேர ஆர்வமாக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - விவசாயம் அல்லது விவசாயத் தொழிலாளர் அந்தஸ்தின் சான்று. - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "tfppt": {
+      "slug": "tfppt",
+      "name": "பருப்பு வகைகள் உற்பத்தி தொழில்நுட்பங்கள் குறித்து விவசாயிகளுக்கு பயிற்சி",
+      "short_title": "TFPPT",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "பருப்பு வகைகள் உற்பத்தி",
+        "பயிற்சி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/tfppt",
+      "description": "\"பருப்பு வகைகள் உற்பத்தி தொழில்நுட்பங்கள் குறித்த விவசாயிகளின் பயிற்சி\" திட்டம் பயிர் விளைச்சலை அதிகரிக்க மேம்பட்ட பருப்பு வகைகள் உற்பத்தி தொழில்நுட்பங்கள் குறித்து விவசாயிகளுக்கு கல்வி கற்பிப்பதை நோக்கமாகக் கொண்டுள்ளது.",
+      "benefits": "நிதி உதவி: 50 விவசாயிகளுக்கு ஒரு குழுவிற்கு ரூ. 15,000/- பயிற்சி திட்டம்: * * மேம்பட்ட பருப்பு உற்பத்தி நுட்பங்கள் குறித்த பயிற்சி.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பருப்பு வகைகளுடன் விதைப் பண்ணைகளை வளர்க்க வேண்டும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை ஆவணங்கள் அல்லது குத்தகை ஒப்பந்தம். - பருப்பு வகைகள் சாகுபடி செய்யப்பட்டதற்கான சான்று. - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "isfepqiisaradocscildiwss": {
+      "slug": "isfepqiisaradocscildiwss",
+      "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறிய ஏலக்காய் நீர்ப்பாசன நில மேம்பாடு: நீர்ப்பாசனம்/நீர் சேமிப்பு அமைப்பு (எண்",
+      "short_title": "ISFEPQIISARADOCSCILDIWSS",
+      "level": "Central",
+      "state": "Kerala, Karnataka, Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "நீர் சேமிப்பு",
+        "பட்டியலிடப்பட்ட சாதியினர்",
+        "பட்டியல் பழங்குடியினர்",
+        "விவசாயி"
+      ],
+      "ministry": "Ministry Of Commerce And Industry",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/isfepqiisaradocscildiwss",
+      "description": "இத்திட்டத்தின் கீழ், சிறிய ஏலக்காய் உற்பத்தித்திறனை அதிகரிக்கவும், தரத்தை மேம்படுத்தவும் நீர் சேமிப்பு கட்டமைப்புகளை உருவாக்குவதன் மூலம் அதிக நிலப்பரப்பை நீர்ப்பாசனம் மற்றும் நில மேம்பாட்டின் கீழ் கொண்டு வர விவசாயிகளை ஊக்குவித்தல்.",
+      "benefits": "1. கட்டுமான செலவில் 50 சதவீதம், பொதுப் பிரிவினருக்கு ஒரு யூனிட்டுக்கு அதிகபட்சம் ரூ. 30,000 ஆகவும், எஸ்சி/எஸ்டி பிரிவினருக்கு ஒரு யூனிட்டுக்கு அதிகபட்சம் ரூ. 45,000/- ஆகவும், 75 சதவீதம் உட்பட்டு இருக்கும். 1. இத்திட்டத்தின் கீழ் அதிகபட்ச மானியத்தைப் பெற குறைந்தபட்ச நீர்ப்பாசனத் திறன் 25 கன மீட்டராக இருக்க வேண்டும். இதற்கு முன்பு இந்த சலுகையைப் பெற்ற எந்தவொரு விவசாயியும் இந்த சலுகையைப் பெற தகுதியற்றவர். 1. 10 ஹெக்டேர் முதல் 8 ஹெக்டேர் வரை நிலம் வைத்திருக்கும் பதிவு செய்யப்பட்ட ஏலக்காய் விவசாயிகள் இந்தத் திட்டத்தைப் பயன்படுத்த தகுதியுடையவர்கள்",
+      "eligibility": "1. விண்ணப்பதாரர் கேரளா, தமிழ்நாடு அல்லது கர்நாடகாவைச் சேர்ந்த சிறிய ஏலக்காய் உற்பத்தியாளராக இருக்க வேண்டும். 1. விண்ணப்பதாரர் நீர்ப்பாசனம் அல்லது நீர் சேமிப்பு கட்டமைப்புகளை உருவாக்குவதன் மூலம் நீர்ப்பாசனம் மற்றும் நில மேம்பாட்டு நடவடிக்கைகளை மேற்கொள்ள வேண்டும். 1. நியமிக்கப்பட்ட அதிகாரிகளின் இறுதி ஆய்வுக்கு உட்பட்டு, முன்மொழியப்பட்ட கட்டமைப்பு நீரின் இயற்கையான ஓட்டத்தைத் தடுக்கவோ அல்லது உள்ளூர் சமூகங்கள் அல்லது சம்பந்தப்பட்ட அதிகாரிகளிடமிருந்து ஆட்சேபனைகளை உருவாக்கவோ இல்லை என்பதை விண்ணப்பதாரர் உறுதி செய்ய வேண்டும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: இணையவழியில் (Online) பதிவு செய்தல் படி 1: விண்ணப்பதாரர் வருகை தர வேண்டும் சேவைகள் பிளஸ் இணையதளம். படி 2: \"என்பதைக் கிளிக் செய்க பதிவு செய்யுங்கள் \" முகப்புப்பக்கத்தில் உள்ள விருப்பத்தேர்வு. படி 3: முழு பெயர், மின்னஞ்சல் ஐடி, மொபைல் எண், கடவுச்சொல், மாநிலம் மற்றும் கேப்ட்சாவைத் தேர்ந்தெடுப்பதன் மூலம் பதிவு படிவத்தை நிரப்பவும். படி 4: அனைத்து விவரங்களையும் கவனமாக மதிப்பாய்வு செய்து பதிவு படிவத்தை சமர்ப்பிக்கவும். படி 5: உங்கள் பதிவு செய்யப்பட்ட மொபைல் எண் அல்லது மின்னஞ்சலுக்கு ஒரு ஓடிபி அனுப்பப்படும்; ஓடிபியை உள்ளிட்டு \"சரிபார்க்கவும்\" என்பதைக் கிளிக் செய்க படி 6: பதிவு வெற்றிகரமாக முடிக்கப்படும், மேலும் உறுதிப்படுத்தல் செய்தி காண்பிக்கப்படும் அல்லது மின்னஞ்சல் வழியாக அனுப்பப்படும். உள்நுழையவும் படி 1: விண்ணப்பதாரர் சர்வீசஸ் பிளஸ் வலைத்தளத்தைப் பார்வையிட்டு அதில் கிளிக் செய்ய வேண்டும் \"உள்நுழைக\" படி 2: உங்கள் மின்னஞ்சல் ஐடி, கடவுச்சொல் மற்றும் கேப்ட்சாவை உள்ளிடவும். படி 3: தொடர்புடைய சேவை/திட்டத்தின் பெயரைத் தேர்ந்தெடுக்கவும். படி 4: விண்ணப்பப் படிவத்தில் தேவையான விவரங்களை நிரப்பவும். படி 5: விண்ணப்பத்தை சமர்ப்பிக்கவும்.",
+      "documents_required": "அ) நிலத்தின் உரிமை அல்லது சட்டப்பூர்வ உடைமைக்கான ஆவணம் அதாவது பட்டா ஆ) நடப்பு ஆண்டு நிலவரி ரசீது/ஆர். டி. சி/சிட்டா அடங்கல் இ) சி. ஆர்/ஏ. சி. ஆர்/சி. டி. ஆர். சி ஒப்புதல் ஈ) ஆதார் அட்டை இ) வங்கி பாஸ் புத்தகம் f) கட்டுமானத்திற்கான அரசாங்கத்தால் அங்கீகரிக்கப்பட்ட விகிதங்களைப் பின்பற்றி தகுதிவாய்ந்த பதிவு செய்யப்பட்ட/உரிமம் பெற்ற அல்லது அரசு சிவில் பொறியாளரிடமிருந்து முன்மொழியப்பட்ட கட்டமைப்பைத் திட்டமிட்டு மதிப்பீடு செய்யுங்கள்."
+    },
+    "pcardftc": {
+      "slug": "pcardftc",
+      "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: டிராக்டர் வாங்குவதற்கு",
+      "short_title": "PCARDFTC",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment",
+        "Banking",
+        "Financial Services and Insurance"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "கடன்",
+        "விவசாயி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcardftc",
+      "description": "இந்த திட்டம் டிராக்டர்களை வாங்க விவசாயிகளுக்கு ஒரு சிறப்புக் கடனை வழங்குகிறது, இது டிராக்டரின் செலவில் 90 சதவீதம் வரை உள்ளடக்கியது.",
+      "benefits": "- * * கடனுக்கான அணுகல்: * * டிராக்டர் செலவில் 90 சதவீதம் வரை உள்ளடக்கியது. * * வட்டி விகிதம்: * * 11 சதவீதம் முதல் 12.25 சதவீதம் வரை (மாற்றத்திற்கு உட்பட்டு). & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "1. பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். 1. பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். 1. பயனாளி விவசாய நடவடிக்கைகளில் ஈடுபடுத்தப்பட வேண்டும். 1. பயனாளி குறிப்பாக டிராக்டர் வாங்குவதற்கு கடனைப் பயன்படுத்த வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி-1: ஆர்வமுள்ள விண்ணப்பதாரர் தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கியின் செயலாளர்/சிறப்பு அதிகாரியைத் தொடர்புகொண்டு விண்ணப்பப் படிவத்தை சேகரிக்க வேண்டும். படி-2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி-3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட அதிகாரியிடம் சமர்ப்பிக்கவும். படி-4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார், பான் கார்டு போன்றவை). - முகவரிச் சான்று. - நில உரிமை அல்லது குத்தகைக்கான சான்று. - டிராக்டர் கொள்முதல் விலைப்பட்டியல்/மேற்கோள் - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pcardah": {
+      "slug": "pcardah",
+      "name": "தொடக்க கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: கால்நடை பராமரிப்புக்காக",
+      "short_title": "PCARDAH",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Banking",
+        "Financial Services and Insurance",
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "கால்நடை பராமரிப்புக் கடன்",
+        "விவசாயம்",
+        "விவசாயி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcardah",
+      "description": "இந்தத் திட்டம் விவசாயிகளுக்கு கால்நடை வளர்ப்பு நோக்கத்திற்காக கடன்களை வழங்குகிறது, இது கால்நடைகள் மூலம் அவர்களின் வருமானத்தை மேம்படுத்த அனுமதிக்கிறது.",
+      "benefits": "- * * கடனுக்கான அணுகல்: * * 1. * * 2 எருமைகளை வாங்குவதற்கு: * ₹20,000/-. 1. * * 21 ஆடுகளை வாங்குவதற்கு: * * 24,500/-.-* * வட்டி விகிதம்: * * 14.5% முதல் 16.5% வரை (மாற்றத்திற்கு உட்பட்டது)",
+      "eligibility": "பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி கால்நடை வளர்ப்பில் ஈடுபட்டிருக்க வேண்டும். பயனாளி தொடக்க கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கியிலிருந்து கால்நடை பராமரிப்புக் கடனைப் பெற ஆர்வமாக இருக்க வேண்டும். பயனாளி குறிப்பாக கால்நடை வளர்ப்புக்கு (எருமைகள் அல்லது ஆடுகளை வாங்குவது) கடனைப் பயன்படுத்த வேண்டும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கியின் செயலாளர்/சிறப்பு அதிகாரியைத் தொடர்புகொண்டு விண்ணப்பப் படிவத்தை சேகரிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட அதிகாரியிடம் சமர்ப்பிக்கவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார், பான் கார்டு போன்றவை). - முகவரிச் சான்று. - விவசாயத் தொழிலின் சான்று (எ. கா., விவசாயி சான்றிதழ்) (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "isfepqinsaradocsrnpfkt": {
+      "slug": "isfepqinsaradocsrnpfkt",
+      "name": "மசாலா பொருட்களின் ஏற்றுமதியை மேம்படுத்துதல் மற்றும் தரத்தை மேம்படுத்துதல் மற்றும் ஏலக்காய் ஆராய்ச்சி மற்றும் மேம்பாட்டுக்கான ஒருங்கிணைந்த திட்டம்: சிறு ஏலக்காய் மாற்று/புதிய நடவு: கேரளா மற்றும் தமிழ்நாட்டிற்கு",
+      "short_title": "ISFEPQINSARADOCSRNPFKT",
+      "level": "Central",
+      "state": "Kerala, Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "நடவு",
+        "மறுசீரமைப்பு",
+        "கேரளா",
+        "தமிழ்நாடு"
+      ],
+      "ministry": "Ministry Of Commerce And Industry",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/isfepqinsaradocsrnpfkt",
+      "description": "இத்திட்டத்தின் கீழ் நோயுற்ற, பழைய மற்றும் வயதான தோட்டங்களை முறையாக மறு நடவு செய்வதன் மூலம் உற்பத்தி மற்றும் உற்பத்தித்திறனை மேம்படுத்த விவசாயிகளை ஊக்குவிப்பதும், பரப்பளவு விரிவாக்கத்தை மேற்கொள்வதும் ஆகும்.",
+      "benefits": "1. பொதுப் பிரிவினருக்கு ஒரு ஹெக்டேருக்கு அதிகபட்சமாக ரூ. 1,00,000/- ஆகவும், சாகுபடிச் செலவில் 75 சதவீதம் ஆகவும் இருக்கும் பொருளின் சாகுபடிச் செலவில் 33.33 சதவீதம், எஸ்சி/எஸ்டிக்கு ஒரு ஹெக்டேருக்கு ரூ. 2,10,000/- ஆகவும், ஆண்டுக்கு முறையே ரூ. 50,000/- ஆகவும், ரூ. 1,05,000/- ஆகவும் இரண்டு வருடாந்திர தவணைகளில் செலுத்தப்பட வேண்டும். 1. 10 ஹெக்டேர் முதல் 8 ஹெக்டேர் வரை நிலம் வைத்திருக்கும் தனிநபர் பதிவு செய்யப்பட்ட ஏலக்காய் விவசாயிகள். 1. இத்திட்டத்தின் கீழ் ஒரு தொடர்ச்சியான தொகுதியில் குறைந்தபட்சமாக 0.10 ஹெக்டேர் நிலப்பரப்பு நடப்பட வேண்டும், மேலும் ஒரு பயனாளிக்கு ஆண்டுக்கு அதிகபட்சமாக 2 ஹெக்டேர் நிலப்பரப்பும், தொகுதி ஆண்டில் அதிகபட்சமாக 8 ஹெக்டேர் நிலப்பரப்பும் இருக்க வேண்டும். 1. தாவரங்களின் எண்ணிக்கை ஒரு ஹெக்டேருக்கு குறைந்தபட்சம் 1100 ஆகும். 1. இயற்கை பேரழிவுகள், பேரழிவுகரமான பூச்சி மற்றும் நோய் தாக்குதல்கள் போன்ற பிரத்யேக சூழ்நிலைகளைத் தவிர, ஒரு பயனாளியால் மீண்டும் நடப்பட்ட அதே பகுதிக்கு இரண்டாவது முறையாக நன்மை 8 ஆண்டுகள் நிறைவடைந்த பின்னரே கிடைக்கும்",
+      "eligibility": "1. விண்ணப்பதாரர் கேரளா அல்லது தமிழ்நாட்டைச் சேர்ந்தவராக இருக்க வேண்டும் மற்றும் திட்டத்தின் கீழ் சிறிய ஏலக்காய் மறு நடவு/புதிய நடவு நடவடிக்கைகளை மேற்கொள்ள வேண்டும். 1. தோட்டம்/தளம் நியமிக்கப்பட்ட அதிகாரிகளால் இறுதி ஆய்வுக்கு உட்படும், மேலும் அவர்கள் பரிந்துரைத்த தகுதியான வழக்குகள் மட்டுமே உதவிக்கு பரிசீலிக்கப்படும்",
+      "application_process": "விண்ணப்பிக்கும் முறை: இணையவழியில் (Online) பதிவு செய்தல் படி 1: விண்ணப்பதாரர் வருகை தர வேண்டும் சேவைகள் பிளஸ் இணையதளம். படி 2: \"என்பதைக் கிளிக் செய்க பதிவு செய்யுங்கள் \" முகப்புப்பக்கத்தில் உள்ள விருப்பத்தேர்வு. படி 3: முழு பெயர், மின்னஞ்சல் ஐடி, மொபைல் எண், கடவுச்சொல், மாநிலம் மற்றும் கேப்ட்சாவைத் தேர்ந்தெடுப்பதன் மூலம் பதிவு படிவத்தை நிரப்பவும். படி 4: அனைத்து விவரங்களையும் கவனமாக மதிப்பாய்வு செய்து பதிவு படிவத்தை சமர்ப்பிக்கவும். படி 5: உங்கள் பதிவு செய்யப்பட்ட மொபைல் எண் அல்லது மின்னஞ்சலுக்கு ஒரு ஓடிபி அனுப்பப்படும்; ஓடிபியை உள்ளிட்டு \"சரிபார்க்கவும்\" என்பதைக் கிளிக் செய்க படி 6: பதிவு வெற்றிகரமாக முடிக்கப்படும், மேலும் உறுதிப்படுத்தல் செய்தி காண்பிக்கப்படும் அல்லது மின்னஞ்சல் வழியாக அனுப்பப்படும். உள்நுழையவும் படி 1: விண்ணப்பதாரர் சர்வீசஸ் பிளஸ் வலைத்தளத்தைப் பார்வையிட்டு அதில் கிளிக் செய்ய வேண்டும் \"உள்நுழைக\" படி 2: உங்கள் மின்னஞ்சல் ஐடி, கடவுச்சொல் மற்றும் கேப்ட்சாவை உள்ளிடவும். படி 3: தொடர்புடைய சேவை/திட்டத்தின் பெயரைத் தேர்ந்தெடுக்கவும். படி 4: விண்ணப்பப் படிவத்தில் தேவையான விவரங்களை நிரப்பவும். படி 5: விண்ணப்பத்தை சமர்ப்பிக்கவும்.",
+      "documents_required": "- நிலத்தின் உரிமை அல்லது சட்டப்பூர்வ உடைமைக்கான ஆவணம் அதாவது பட்டா - நடப்பு ஆண்டு நிலவரி ரசீது/சிட்டா அடங்கல்/ஆர். டி. சி - சிஆர்/ஏ. சி. ஆர்/சி. ஆர். சி ஒப்புதல் - ஆதார் அட்டை - வங்கி பாஸ் புத்தகத்தின் நகல் - வி. ஓ./பதிவு செய்யப்பட்ட சர்வேயர் வழங்கிய கணக்கெடுப்புத் திட்டம்"
+    },
+    "ahtn": {
+      "slug": "ahtn",
+      "name": "கால்நடை வளர்ப்பு",
+      "short_title": "AHTN",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "பழங்குடியினர் நலன்",
+        "கால்நடை வளர்ப்பு",
+        "விலங்குகள் சுகாதார காப்பீடு",
+        "செயற்கை கருவூட்டல்",
+        "ஆடு அலகுகள் விநியோகம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/ahtn",
+      "description": "இந்தத் திட்டம் செம்மறி ஆடுகள், பால் கறக்கும் விலங்குகள் மற்றும் கன்றுகளை விநியோகிப்பதற்கும், சுகாதாரப் பாதுகாப்பு மற்றும் விலங்குகளுக்கு செயற்கை கருவூட்டல் ஆகியவற்றிற்கும் மானியங்களை வழங்குகிறது. கால்நடை வளர்ப்பு மூலம் பழங்குடி சமூகங்களின் வாழ்வாதாரத்தை மேம்படுத்த இது இலக்கு வைக்கப்பட்டுள்ளது.",
+      "benefits": "மானியம்: செம்மறி ஆடுகள், கறவை மாடுகள் மற்றும் கன்றுகளுக்கு 50 சதவீதம் முதல் 75 சதவீதம் வரை மானியம். - * * விலங்குகளுக்கான சுகாதாரப் பராமரிப்பு வசதி: * * சுகாதாரப் பராமரிப்பு மற்றும் கால்நடைச் சேவைகளை வழங்குதல். - * * மற்றவை: * * இனப்பெருக்கத்தை மேம்படுத்த விலங்குகளுக்கு செயற்கை கருவூட்டல். & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி விவசாயியாக இருக்க வேண்டும். பயனாளி ஆதி திராவிடர்/பழங்குடி சமூகத்தைச் சேர்ந்தவராக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் ஆதி திராவிடர் இயக்குநர் அலுவலகம் மற்றும் பழங்குடியினர் நல அதிகாரி/கால்நடை பராமரிப்புத் துறை இயக்குநர் அல்லது கால்நடை மருத்துவமனையிலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட துறைக்கு சமர்ப்பிக்கவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை அல்லது அதிகாரத்தால் வழிநடத்தப்பட்ட வேறு எந்த ஆவணமும்). - சமூகச் சான்றிதழ். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "fig": {
+      "slug": "fig",
+      "name": "விவசாயிகள் ஆர்வக் குழு (படம்)",
+      "short_title": "FIG",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விவசாயிகள் ஆர்வக் குழு",
+        "படம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Infra",
+      "url": "https://www.myscheme.gov.in/ta/schemes/fig",
+      "description": "\"விவசாயிகள் நலக் குழு (எஃப். ஐ. ஜி)\" திட்டம் 15 விவசாயிகள் கொண்ட ஒவ்வொரு குழுவிற்கும் விவசாய மேம்பாட்டுக்கான மானியங்களை வழங்குகிறது. இந்தத் திட்டம் அலுவலக உபகரணங்கள், பயிற்சி, அடையாள அட்டைகள் மற்றும் மாவட்ட அளவிலான கூட்டங்களுக்கு உதவிகளை வழங்குகிறது.",
+      "benefits": "அலுவலக உபகரணங்கள்: அலுவலக உபகரணங்கள், தொழில்நுட்ப செய்தித்தாள்கள் வாங்குவதற்கும், நூலகம் அமைப்பதற்கும் ஒரு குழுவிற்கு ₹5,000/-. * * பயிற்சி மற்றும் திறன் கையகப்படுத்தல்: * * விவசாய உறுப்பினர்களால் பயிற்சி மற்றும் திறன் கையகப்படுத்தலுக்காக ஒரு குழுவிற்கு ₹4,000/-. அடையாள அட்டைகள்: உறுப்பினர்களுக்கு அடையாள அட்டைகளை வழங்க ஒரு குழுவிற்கு ₹400/-. மாவட்ட அளவிலான கூட்டங்கள்: மாவட்ட அளவிலான கூட்டங்களை நடத்த ஒரு குழுவிற்கு ₹20,000/-.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி 15 விவசாயிகள் கொண்ட விவசாயிகளின் குழுவில் ஒரு பகுதியாக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - குழு பதிவு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "docsos": {
+      "slug": "docsos",
+      "name": "சான்றளிக்கப்பட்ட விதைகள்-எண்ணெய் விதைகள் விநியோகம்",
+      "short_title": "DOCSOS",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விதை விநியோகம்",
+        "எண்ணெய் விதைகள்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/docsos",
+      "description": "\"சான்றளிக்கப்பட்ட விதைகள்-எண்ணெய் விதைகள் விநியோகம்\" திட்டம் விவசாயிகளுக்கு சான்றளிக்கப்பட்ட எண்ணெய் விதைகளை வாங்குவதற்கு மானியங்களை வழங்குகிறது, இது அவர்களின் பயிர் விளைச்சல் மற்றும் தரத்தை மேம்படுத்த உதவுகிறது.",
+      "benefits": "* நிதி உதவி: * விதை செலவில் 50 சதவீதம் அல்லது குவிண்டாலுக்கு 1,200/- ரூபாய், இதில் எது குறைவோ அது மானியமாக வழங்கப்படும்",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி அறக்கட்டளை மற்றும் சான்றளிக்கப்பட்ட வகுப்பு விதைகளை உற்பத்தி செய்து துறைக்கு வழங்க வேண்டும். பிஆர் & ஜிடி;",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (எ. கா. ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை). - நில உரிமை அல்லது சாகுபடிக்கான சான்று. - விதை கொள்முதல் ரசீது. - விதை உற்பத்தி மற்றும் விநியோகச் சான்றிதழ் துறைக்கு வழங்குதல். - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "pcardbif": {
+      "slug": "pcardbif",
+      "name": "தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கி: உள்நாட்டு மீன்பிடிக்காக",
+      "short_title": "PCARDBIF",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Banking",
+        "Financial Services and Insurance",
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "உள்நாட்டு மீன்பிடித்தல்",
+        "கடன்",
+        "விவசாயி",
+        "விவசாயம் மற்றும் கிராமப்புற மேம்பாட்டு வங்கி"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/pcardbif",
+      "description": "இந்தத் திட்டம் உள்நாட்டு மீன்பிடி திட்டங்களுக்கு விவசாயிகளுக்கு 11 சதவீதம் முதல் 12 சதவீதம் வரையிலான வட்டி விகிதத்தில் ஒரு ஹெக்டேருக்கு ₹1 வரை கடன் வழங்குகிறது.",
+      "benefits": "- * * கடனுக்கான அணுகல்: * ₹ 3,30,000-ஒரு ஹெக்டேருக்கு.-* * வட்டி விகிதம்: * 11 சதவீதம் முதல் 12 சதவீதம் வரை (மாற்றத்திற்கு உட்பட்டது)",
+      "eligibility": "பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி உள்நாட்டு மீன்பிடித்தலில் ஈடுபட்டிருக்க வேண்டும். பயனாளி உள்நாட்டு மீன்பிடித்தலுக்கான கடனைப் பெற ஆர்வமாக இருக்க வேண்டும். பயனாளி கடனை குறிப்பாக உள்நாட்டு மீன்பிடி நடவடிக்கைகளுக்கு பயன்படுத்த வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் தொடக்கக் கூட்டுறவு வேளாண்மை மற்றும் கிராமப்புற மேம்பாட்டு வங்கிக்குச் சென்று விண்ணப்பப் படிவத்தை சேகரிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் சம்பந்தப்பட்ட அதிகாரியிடம் சமர்ப்பிக்கவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீதில் சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம் போன்ற அத்தியாவசிய விவரங்கள் மற்றும் ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) இருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார், பான் கார்டு போன்றவை). - முகவரிச் சான்று. - உள்நாட்டு மீன்பிடியில் பயன்படுத்தப்படும் நிலத்திற்கான நில உரிமை அல்லது குத்தகை ஆவணங்களின் சான்று. - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "doshc": {
+      "slug": "doshc",
+      "name": "மண் சுகாதார அட்டை விநியோகம்",
+      "short_title": "DOSHC",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "மண் சுகாதார அட்டை"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/doshc",
+      "description": "\"மண் சுகாதார அட்டை விநியோகம்\" திட்டத்தின் கீழ், மண் மாதிரியை பரிசோதனைக்கு வழங்கிய அனைத்து விவசாயிகளுக்கும் மண் சுகாதார அட்டைகள் விநியோகிக்கப்படும், மேக்ரோ மற்றும் நுண்ணூட்டச்சத்து சோதனைக்கு தலா 5/- ரூபாய் நிர்ணயிக்கப்பட்ட கட்டணத்தை செலுத்த வேண்டும்.",
+      "benefits": "- விவசாயிகளுக்கு மண் சுகாதார அட்டைகள்",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்.-பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும்.-பயனாளி பரிசோதனைக்காக மண் மாதிரிகளை வழங்கியிருக்க வேண்டும்.-பயனாளி மேக்ரோ மற்றும் மைக்ரோ ஊட்டச்சத்து சோதனைக்கு தலா ரூ. 5/- கட்டணத்தை செலுத்தியிருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - மண் மாதிரி சமர்ப்பிப்பு மற்றும் பணம் செலுத்தியதற்கான சான்று. - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "nmeo-op": {
+      "slug": "nmeo-op",
+      "name": "சமையல் எண்ணெய்களுக்கான தேசிய இயக்கம்-எண்ணெய் பனை",
+      "short_title": "NMEO OP",
+      "level": "Central",
+      "state": "Andhra Pradesh, Telangana, Chhattisgarh, Tamil Nadu, Kerala, Gujarat, Karnataka, Odisha, Mizoram, Nagaland, Assam, Arunachal Pradesh, Manipur, Goa, Tripura",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "எண்ணெய் பனை",
+        "பரப்பளவு விரிவாக்கம்",
+        "எண்ணெய் பனை ஆலை",
+        "விதை தோட்டம்",
+        "விதை நாற்றங்கால்",
+        "செயலி"
+      ],
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "scheme_for": "Infra",
+      "url": "https://www.myscheme.gov.in/ta/schemes/nmeo-op",
+      "description": "எண்ணெய் பனை நிலப்பரப்பை விரிவுபடுத்துவதன் மூலமும், சிபிஓ உற்பத்தியை அதிகரிப்பதன் மூலமும், சமையல் எண்ணெய்கள் மீதான இறக்குமதி சுமையை குறைப்பதன் மூலமும் நாட்டில் சமையல் எண்ணெய் வித்துக்கள் உற்பத்தி மற்றும் எண்ணெய் கிடைப்பதை மேம்படுத்தும் நோக்கத்துடன் இந்த இயக்கம் தொடங்கப்பட்டது.",
+      "benefits": "இந்தத் திட்டம் பின்வரும் நன்மைகளை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது: 1) எண்ணெய் மரத்தின் உற்பத்தி மற்றும் உற்பத்தித்திறனை மேம்படுத்துதல் 2) மேம்பட்ட தொழில்நுட்பங்களை மேம்படுத்துதல் மற்றும் விரிவுபடுத்துதல். 3) தரமான நடவுப்பொருட்கள் வழங்குதல் 4) ஊட்டச்சத்து மேலாண்மை மற்றும் பூச்சி மேலாண்மைக்கு ஆதரவு 5) பண்ணை கருவிகள்/இயந்திரங்கள், விவசாயிகளின் திறன் மேம்பாடு, நீர் எடுத்துச் செல்லும் குழாய்கள், உரம், அறுவடை தொழில்நுட்பம் போன்றவற்றை உள்ளடக்கிய தலையீடுகளுக்கு பல்வேறு கூறுகளை வழங்குதல்.",
+      "eligibility": "> இந்தத் திட்டத்தின் கீழ் யார் வேண்டுமானாலும் விண்ணப்பிக்கலாம்",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள பயனாளி திட்டத்திற்கு விண்ணப்பிக்க மாவட்ட வேளாண் அதிகாரி/வட்டார வேளாண் அதிகாரியைத் தொடர்பு கொள்ளலாம். படி 02: மாவட்டங்களிலிருந்து பெறப்பட்ட தொழில்முனைவோரின் முன்மொழிவுகளை எஸ். எல். எஸ். சி இறுதி செய்யும். மாநிலங்களுக்கு அவர்களின் வருடாந்திர செயல் திட்டத்தின் (ஏஏபி) அடிப்படையில் நிதி ஒதுக்கப்படும். படி 3: மாநில அரசு மாவட்டத்திற்கு நிதி ஒதுக்கி வெளியிடும். படி 04: மாவட்ட விவசாயத் துறை தனிப்பட்ட பயனாளிகளுக்கு நிதி ஒதுக்கும்",
+      "documents_required": "1) அடையாளச் சான்று 2) நில ஆவணங்கள் 3) வங்கி விவரங்கள் 4) புகைப்படங்கள் திட்டத்தின் பலன்களைப் பெறுவதற்கான குறிப்பிட்ட ஆவணங்கள் தலையீட்டின் வகை மற்றும் அரசைப் பொறுத்து மாறுபடலாம். சமர்ப்பிக்க வேண்டிய ஆவணங்கள் குறித்த விரிவான தகவல்களுக்கு சம்பந்தப்பட்ட அதிகாரிகளுடன் கலந்தாலோசிக்க பரிந்துரைக்கப்படுகிறது."
+    },
+    "domafoc": {
+      "slug": "domafoc",
+      "name": "மினிகிட்டுகளை இலவசமாக விநியோகம் செய்தல்",
+      "short_title": "DOMAFOC",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "மினிகிட்கள்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/domafoc",
+      "description": "தமிழ்நாட்டில் தேர்ந்தெடுக்கப்பட்ட சில மாவட்டங்களில் மக்காச்சோளம் பயிரிடும் விவசாயிகளுக்கு மினிகிட்களுக்கு இலவச மினிகிட்கள் விநியோகம் திட்டம் மானியங்களை வழங்குகிறது.",
+      "benefits": "- * உதவியின் அளவு: * * மினிகிட்களுக்கு மானியம்",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும்-பயனாளி தமிழ்நாட்டின் பின்வரும் மாவட்டங்களில் ஏதேனும் ஒன்றில் வசிப்பவராக இருக்க வேண்டும்: கோயம்புத்தூர், தூத்துக்குடி, ஈரோடு, தருமபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, வில்லுபுரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி மற்றும் தூத்துக்குடி-பயனாளிகள் மக்காச்சோள சாகுபடியில் ஈடுபடுத்தப்பட வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமையின் சான்று. - மக்காச்சோளம் சாகுபடியின் சான்று. - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - ஒரு பண்ணை பெண் என்பதற்கான சான்று (பொருந்தினால்). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "ipmdct": {
+      "slug": "ipmdct",
+      "name": "ஒருங்கிணைந்த பூச்சி மேலாண்மை பயிற்சி",
+      "short_title": "IPMDCT",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "ஒருங்கிணைந்த பூச்சி மேலாண்மை",
+        "பயிற்சி"
+      ],
+      "ministry": "",
+      "scheme_for": "Infra",
+      "url": "https://www.myscheme.gov.in/ta/schemes/ipmdct",
+      "description": "\"ஒருங்கிணைந்த பூச்சி மேலாண்மை செயல்விளக்க பயிற்சி\" திட்டம் 30 விவசாயிகளுக்கு பூச்சி மேலாண்மை செயல்விளக்கங்களை நடத்துவதற்கும், விவசாய களப் பள்ளிகளில் தொகுப்பு அணுகுமுறையைப் பயன்படுத்தி பயிற்சியளிப்பதற்கும் நிதி உதவியை வழங்குகிறது.",
+      "benefits": "- * * விவசாய களப் பள்ளிகளுக்கு: * * நிதி உதவி: 40 ஹெக்டேர் நிலப்பரப்பில் ஆர்ப்பாட்டம் நடத்த ரூ. 17,000/- மானியம் அனுமதிக்கப்படுகிறது. ஒவ்வொன்றும் மற்றும் கிளஸ்டர் அணுகுமுறை மூலம் விவசாயிகளின் களப் பள்ளிக்கு பயிற்சி. - * * விவசாயிகளுக்கு: * * பயிற்சி மற்றும் செயல்விளக்கம்: விவசாய களப் பள்ளிகள் மூலம் பூச்சி மேலாண்மையில் பயிற்சி.",
+      "eligibility": "& ஜிடி; * விவசாயிக்கு: பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி ஒருங்கிணைந்த பூச்சி மேலாண்மை நடைமுறைகளை பின்பற்ற தயாராக இருக்க வேண்டும். * * விவசாய களப் பள்ளிகளுக்கு: நிறுவனம்/அமைப்பு ஒரு உழவர் களப் பள்ளியாக இருக்க வேண்டும்-நிறுவனம்/அமைப்பு விவசாயிகளுக்கான ஆர்ப்பாட்டம் மற்றும் பயிற்சித் திட்டத்தை நடத்துவதில் ஆர்வமாக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "விவசாயிகளுக்கு: - அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை) - முகவரிச் சான்று (மின்சாரக் கட்டணம், ரேஷன் கார்டு) - நில உரிமைச் சான்று - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்). உழவர் களப் பள்ளிகள்: - நிறுவனத்தின் பதிவு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "aspie": {
+      "slug": "aspie",
+      "name": "காடுகளில் பழங்குடியினருக்கு ஊக்குவிப்பு மற்றும் வேலைவாய்ப்பு வழங்கும் காடழிப்பு திட்டங்கள்",
+      "short_title": "ASPIE",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Skills & Employment",
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "பழங்குடியினர் நலன்",
+        "காடு வளர்ப்பு",
+        "ஊக்குவிப்புகள்",
+        "வேலைவாய்ப்பு"
+      ],
+      "ministry": "",
+      "scheme_for": "Individual",
+      "url": "https://www.myscheme.gov.in/ta/schemes/aspie",
+      "description": "இந்தத் திட்டம் வேலையில்லாத பழங்குடியினருக்கு காடு வளர்ப்புப் பணிகளுக்காக மானியங்களை வழங்குகிறது, அவர்களுக்கு வன நடவடிக்கைகளில் ஊக்குவிப்பு மற்றும் வேலை வாய்ப்புகளை வழங்குகிறது.",
+      "benefits": "- * ஊக்கத்தொகை: * * காடு வளர்ப்பு நடவடிக்கைகளுக்கான நிதி மானியங்கள். * * வேலைவாய்ப்பு: * * வன மேலாண்மையில் வேலைவாய்ப்புகள். & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி பழங்குடி சமூகத்தைச் சேர்ந்தவராக இருக்க வேண்டும். பயனாளி வேலையில்லாதவராக இருக்க வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: ஆர்வமுள்ள விண்ணப்பதாரர் மாவட்ட வன அதிகாரி (டி. எஃப். ஓ) அலுவலகத்திலிருந்து விண்ணப்ப படிவத்தை சேகரிக்க வேண்டும். படி 2: விண்ணப்பப் படிவத்தில், அனைத்து கட்டாய புலங்களையும் நிரப்பவும், பாஸ்போர்ட் அளவிலான புகைப்படத்தை ஒட்டவும் (தேவைப்பட்டால் குறுக்கே கையொப்பமிடவும்), மேலும் அனைத்து கட்டாய ஆவணங்களின் நகல்களையும் இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிப்பு). படி 3: முறையாக நிரப்பப்பட்ட மற்றும் கையொப்பமிடப்பட்ட விண்ணப்ப படிவத்தை ஆவணங்களுடன் மாவட்ட வன அதிகாரி (டி. எஃப். ஓ) அலுவலகத்திற்கு சமர்ப்பிக்கவும். படி 4: விண்ணப்பம் சமர்ப்பிக்கப்பட்ட சம்பந்தப்பட்ட அதிகாரியிடமிருந்து ரசீது அல்லது ஒப்புதலைக் கோரவும். ரசீது சமர்ப்பிக்கப்பட்ட தேதி மற்றும் நேரம், ஒரு தனித்துவமான அடையாள எண் (பொருந்தினால்) போன்ற அத்தியாவசிய விவரங்களைக் கொண்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை அல்லது அதிகாரத்தால் வழிநடத்தப்பட்ட வேறு எந்த ஆவணமும்). - அடையாளச் சான்று (ஆதார், வாக்காளர் ஐடி). - பழங்குடியினர்/வனப் பகுதியில் வசிப்பதற்கான சான்று. - வேலையின்மை சான்றிதழ் (பொருந்தினால்). - சமூகச் சான்றிதழ் (பொருந்தினால்). - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "gstn": {
+      "slug": "gstn",
+      "name": "ஜெனரேட்டர் மானியம்-தமிழ்நாடு",
+      "short_title": "GSTN",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "ஜெனரேட்டர்",
+        "மானியம்",
+        "உற்பத்தி"
+      ],
+      "ministry": "",
+      "scheme_for": "Infra",
+      "url": "https://www.myscheme.gov.in/ta/schemes/gstn",
+      "description": "\"ஜெனரேட்டர் மானியம்\" திட்டம் தமிழ்நாட்டில் உற்பத்தியாளர்களுக்கு 125 கே. வி. ஏ திறன் கொண்ட ஜெனரேட்டர் செட்களின் விலைக்கு 25 சதவீத மானியத்தை வழங்குகிறது.",
+      "benefits": "உதவியின் அளவு: * * 25 சதவீதம் மானியம் அல்லது அதிகபட்சமாக ₹ 1,50,000-ஜெனரேட்டர் செட்களின் விலையில் (125 கேவிஏ திறன் வரை). & Ltd; பிஆர் & ஜிடி;",
+      "eligibility": "பயனாளிகள் புதிய மற்றும் ஏற்கனவே உள்ள குறு, சிறு மற்றும் நடுத்தர உற்பத்தி நிறுவனங்களாக இருக்க வேண்டும்.-ஜெனரேட்டர் செட் 125 கே. வி. ஏ வரை திறன் கொண்டிருக்க வேண்டும்.-மானிய உரிமைகோரல்கள் கொள்முதல் அல்லது நிறுவப்பட்ட தேதியிலிருந்து ஆறு மாதங்களுக்குள் செய்யப்பட வேண்டும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) - விண்ணப்பப் படிவத்தை சேகரித்து கீழே குறிப்பிடப்பட்டுள்ள அலுவலக முகவரிக்கு சமர்ப்பிக்கவும் தொழில்துறை மற்றும் வர்த்தக தொழிற்பேட்டை மண்டல இணை இயக்குநர், சென்னை-600 032 தொலைபேசி: 044-22501622/22501625 மின்னஞ்சல் முகவரி: rjdchn@gmail.com இணையதள முகவரி: http://www.rjdchn.in/",
+      "documents_required": "- ஜெனரேட்டர் செட்டை வாங்கியதற்கான அல்லது நிறுவியதற்கான சான்று. - ஜெனரேட்டரின் விலைப்பட்டியல் மற்றும் ரசீது. - நிறுவனப் பதிவுச் சான்று (எம். எஸ். எம். இ. பதிவுச் சான்றிதழ்). - மானிய பரிமாற்றத்திற்கான வங்கிக் கணக்கு விவரங்கள். - சான்றளிக்கப்பட்ட தொழில்நுட்ப வல்லுநரிடமிருந்து நிறுவல் சான்றிதழ். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    },
+    "docsom": {
+      "slug": "docsom",
+      "name": "மக்காச்சோளம் சான்றளிக்கப்பட்ட விதைகள் விநியோகம்",
+      "short_title": "DOCSOM",
+      "level": "State",
+      "state": "Tamil Nadu",
+      "categories": [
+        "Agriculture",
+        "Rural & Environment"
+      ],
+      "tags": [
+        "விவசாயம்",
+        "விவசாயி",
+        "விதை விநியோகம்",
+        "மக்காச்சோளம்",
+        "மானியம்"
+      ],
+      "ministry": "",
+      "scheme_for": "Infra",
+      "url": "https://www.myscheme.gov.in/ta/schemes/docsom",
+      "description": "தமிழ்நாட்டின் வேளாண்மை-விவசாயிகள் நலத்துறையின் \"மக்காச்சோளத்தின் சான்றளிக்கப்பட்ட விதைகள் விநியோகம்\" திட்டம், மாநிலத்தின் குறிப்பிட்ட மாவட்டங்களில் மக்காச்சோளம் பயிரிடும் விவசாயிகளுக்கு மானியம் வழங்குகிறது, சான்றளிக்கப்பட்ட மக்காச்சோள விதைகளை வாங்குவதற்கான நிதி உதவியை வழங்குகிறது.",
+      "benefits": "சான்றளிக்கப்பட்ட விதைகளுக்கு மானியம்: சான்றளிக்கப்பட்ட மக்காச்சோள விதைகளின் விலையில் விவசாயிகள் 50 சதவீதம் பெறலாம், ஒரு குவிண்டாலுக்கு 1,200/- என்ற உச்சவரம்புடன், இதில் எது குறைவோ அது கிடைக்கும்.",
+      "eligibility": "பயனாளி ஒரு விவசாயியாக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டில் வசிப்பவராக இருக்க வேண்டும். பயனாளி தமிழ்நாட்டின் குறிப்பிட்ட மாவட்டங்களில் மக்காச்சோளம் பயிரிடுபவராக இருக்க வேண்டும். கோயம்புத்தூர், தூத்துக்குடி, ஈரோடு, தருமபுரி, கிருஷ்ணகிரி, நாமக்கல், பெரம்பலூர், விருதுநகர், தேனி, வில்லுபுரம், வேலூர், சேலம், புதுக்கோட்டை, மதுரை, சிவகங்கை, திருச்சி, திருநெல்வேலி மற்றும் தூத்துக்குடி. * * குறிப்பு: * சிறு/குறு விவசாயிகளுக்கு முன்னுரிமை அளிக்கப்படும். 24 சதவீதம் ஆதிதிராவிடர்/பழங்குடியினர் விவசாயிகளுக்கு வழங்கப்படும். 20 சதவீதம் பெண் விவசாயிகள்/மகளிர் குழுக்களுக்கு வழங்கப்படும்.",
+      "application_process": "விண்ணப்பிக்கும் முறை: நேரில் (Offline) படி 1: அருகிலுள்ள வேளாண் அலுவலகத்திலிருந்து விண்ணப்பப் படிவத்தை சேகரிக்கவும். படி 2: தேவையான விவரங்களுடன் விண்ணப்பப் படிவத்தை பூர்த்தி செய்து, கட்டாய ஆவணங்களை இணைக்கவும் (தேவைப்பட்டால் சுய சான்றளிக்கப்பட்டவை). படி 3: படிவத்தை சம்பந்தப்பட்ட அலுவலகத்திற்கு சமர்ப்பிக்கவும்: கிராம மட்டம்: உதவி வேளாண் அலுவலரிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும். தொகுதி நிலை: வேளாண் அதிகாரி அல்லது துணை வேளாண் அதிகாரியிடம் சமர்ப்பிக்கவும். மாவட்ட அளவில்: வேளாண்மை இணை இயக்குநரிடம் சமர்ப்பிக்கவும்.",
+      "documents_required": "- அடையாளச் சான்று (ஆதார் அட்டை, வாக்காளர் அடையாள அட்டை போன்றவை). - நில உரிமை அல்லது குத்தகைக்கான சான்று. - சமீபத்திய புகைப்படம். - சாதிச் சான்றிதழ் (எஸ்சி/எஸ்டி விண்ணப்பதாரர்களுக்கு). - பெண்கள் குழுக்களில் உறுப்பினர் என்பதை நிரூபிக்கும் ஆவணங்கள் (பொருந்தினால்). - வங்கிக் கணக்கு விவரங்கள். - வேறு ஏதேனும் ஆவணங்கள் (தேவைப்பட்டால்)."
+    }
+  }
+}
