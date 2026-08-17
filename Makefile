@@ -10,7 +10,7 @@ help:
 	@echo "  make docker-up    - Run full stack using Docker Compose"
 
 install:
-	pip install -r requirements.txt
+	pip install -r backend/requirements.txt
 	cd frontend && yarn install
 
 run-backend:

@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+from contextlib import asynccontextmanager
 from typing import Optional, List
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,13 +12,33 @@ from dotenv import load_dotenv
 # Import Multi-Agent Crew & Knowledge Graph engines
 from crew_engine import run_support_crew
 from kg_rag import get_or_load_graphs
+from memory_manager import memory_db
 
 load_dotenv()
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """
+    FastAPI Lifespan Startup Pre-Warming:
+    Pre-loads NetworkX Knowledge Graphs (EN & TA) and Okapi BM25 index on boot
+    to guarantee 0ms cold start latency for the first user request.
+    """
+    print("\n🚀 [FastAPI Startup] Pre-warming Tamil Nadu Knowledge Graphs & Okapi BM25 Index...")
+    try:
+        get_or_load_graphs()
+        print("✅ [FastAPI Startup] Knowledge Graphs & BM25 Indexes successfully cached in memory!\n")
+    except Exception as e:
+        print(f"⚠️ [FastAPI Startup Warning] Failed to pre-warm graph cache: {e}")
+    yield
+    print("🛑 [FastAPI Shutdown] Server stopping...")
+
 
 app = FastAPI(
     title="Buildathon Multi-Agent Customer Support API",
     description="Knowledge Graph RAG + Multi-Agent Support System (FastAPI + CrewAI/LangChain + Next.js)",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 # Enable CORS for Next.js frontend (localhost:3000)
@@ -58,8 +79,8 @@ class ChatResponse(BaseModel):
 @app.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     """
-    Executes the 3-Agent Sequential Support System (Assistant KG-RAG -> Web Search -> Entry Agent)
-    and returns the structured response.
+    Executes the 3-Agent Support System (Assistant KG-RAG -> Web Search -> Entry Agent)
+    with Multi-Turn Context and SQLite Long-Term Memory.
     """
     if not request.message.strip():
         raise HTTPException(status_code=400, detail="Message cannot be empty")
@@ -69,13 +90,15 @@ async def chat_endpoint(request: ChatRequest):
         result = await asyncio.to_thread(
             run_support_crew,
             query=request.message,
-            language=request.language or "en"
+            language=request.language or "en",
+            session_id=request.session_id,
+            chat_history=request.chat_history or []
         )
 
         return ChatResponse(
             status="success",
             response=result["response"],
-            is_rejected=False,
+            is_rejected=result.get("is_rejected", False),
             language=result.get("language", request.language or "en")
         )
     except Exception as e:
@@ -96,16 +119,18 @@ async def chat_stream_endpoint(request: ChatRequest):
 
     async def event_generator():
         try:
-            # Run the 3-agent pipeline
+            # Run the 3-agent pipeline with chat_history and session_id
             result = await asyncio.to_thread(
                 run_support_crew,
                 query=request.message,
-                language=request.language or "en"
+                language=request.language or "en",
+                session_id=request.session_id,
+                chat_history=request.chat_history or []
             )
 
             full_text = result["response"]
             
-            # Stream words/tokens smoothly with minimal latency
+            # Stream words smoothly with minimal latency
             words = full_text.split(" ")
             for i, word in enumerate(words):
                 chunk = word + (" " if i < len(words) - 1 else "")
@@ -226,23 +251,20 @@ def get_scheme_detail(slug: str, lang: str = "en"):
     }
 
 
+# ---------------------------------------------------------------------------
+# 4. Live Admin & Analytics Dashboard Endpoints
+# ---------------------------------------------------------------------------
 @app.get("/stats")
 def get_stats():
-    """Returns system stats for the dashboard."""
+    """Returns live system stats from persistent SQLite memory for the dashboard."""
     (g_en, schemes_en, _), _ = get_or_load_graphs()
-    return {
-        "total_schemes": len(schemes_en),
-        "total_unanswered_queries": 0,
-        "pending_queries": 0,
-        "resolved_queries": 0,
-        "active_sessions": 1
-    }
+    return memory_db.get_system_stats(total_schemes=len(schemes_en))
 
 
 @app.get("/admin/unanswered-queries")
 def get_unanswered_queries():
-    """Returns list of unanswered queries for admin review."""
-    return {"unanswered_queries": []}
+    """Returns list of unanswered / flagged queries from SQLite for admin review."""
+    return {"unanswered_queries": memory_db.get_unanswered_queries()}
 
 
 class UpdateStatusRequest(BaseModel):
@@ -252,8 +274,13 @@ class UpdateStatusRequest(BaseModel):
 
 @app.post("/admin/unanswered-queries/status")
 def update_unanswered_query_status(req: UpdateStatusRequest):
-    """Updates query status."""
-    return {"status": "success", "id": req.id, "new_status": req.status}
+    """Updates query status in SQLite database."""
+    success = memory_db.update_unanswered_query_status(req.id, req.status)
+    return {
+        "status": "success" if success else "error",
+        "id": req.id,
+        "new_status": req.status
+    }
 
 
 @app.get("/")

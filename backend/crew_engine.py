@@ -10,6 +10,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 # Import KG RAG engine & NeMo Guardrails
 from kg_rag import query_knowledge_graph, is_tamil_text
 from guardrails_engine import evaluate_nemo_guardrails
+from memory_manager import memory_db
 
 # Load environment variables
 load_dotenv()
@@ -95,12 +96,18 @@ def _run_agent2(llm: ChatOpenAI, query: str, target_language_name: str) -> str:
     return llm.invoke(web_agent_prompt).content
 
 
-def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, Any]:
+def run_support_crew(
+    query: str,
+    language: Optional[str] = None,
+    session_id: str = "default_session",
+    chat_history: Optional[List[Any]] = None
+) -> Dict[str, Any]:
     """
-    High-Performance Concurrent Multi-Agent Engine:
+    High-Performance Concurrent Multi-Agent Engine with Custom Persistent SQLite Long-Term Memory:
     Step 0: NVIDIA NeMo Guardrails Check (0ms fast path for greetings & in-domain keywords)
-    Step 1 & 2: Agent 1 (Graph RAG) & Agent 2 (Web Search) executed CONCURRENTLY in parallel
-    Step 3: Agent 3 (Entry Agent) synthesizes final unified response & logs to answers.txt
+    Step 1: Multi-Turn Conversation & Long-Term Memory Recall (SQLite)
+    Step 2: Agent 1 (Graph RAG) & Agent 2 (Web Search) executed CONCURRENTLY in parallel
+    Step 3: Agent 3 (Entry Agent) synthesizes final unified response, logs to answers.txt & SQLite LTM
     """
     lang_code = language if language in ("en", "ta") else ("ta" if is_tamil_text(query) else "en")
     target_language_name = "Tamil (தமிழ்)" if lang_code == "ta" else "English"
@@ -116,6 +123,14 @@ def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, An
 
     if rail_status in ("GREETING", "OFF_TOPIC"):
         print(f"[NeMo Guardrails Triggered]: Status '{rail_status}' for query '{query}'")
+        
+        # If OFF_TOPIC or rejected, automatically log for admin dashboard review
+        if rail_status == "OFF_TOPIC":
+            try:
+                memory_db.log_unanswered_query(session_id, query, rail_message, status="PENDING")
+            except Exception as e:
+                print(f"[Admin Log Warning]: {e}")
+
         return {
             "query": query,
             "language": lang_code,
@@ -126,7 +141,29 @@ def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, An
         }
 
     # ---------------------------------------------------------
-    # STEP 1 & 2: Run Agent 1 and Agent 2 CONCURRENTLY
+    # STEP 1: Multi-Turn Context & Long-Term Memory Recall
+    # ---------------------------------------------------------
+    history_context = ""
+    if chat_history and len(chat_history) > 0:
+        # Extract last 4 turns
+        recent_turns = chat_history[-4:]
+        formatted_history = []
+        for turn in recent_turns:
+            role = getattr(turn, "role", None) or (turn.get("role") if isinstance(turn, dict) else "User")
+            text = getattr(turn, "text", None) or (turn.get("text") if isinstance(turn, dict) else str(turn))
+            formatted_history.append(f"{role.title()}: {text}")
+        if formatted_history:
+            history_context = "\n\n--- Recent Conversation Context ---\n" + "\n".join(formatted_history)
+
+    past_memories = memory_db.recall_relevant_memories(query, limit=2)
+    memory_context = ""
+    if past_memories:
+        print(f"[SQLite Long-Term Memory] Recalled {len(past_memories)} past related interactions from SQLite.")
+        memory_lines = [f"- Past Resolution: {m['final_answer'][:250]}..." for m in past_memories]
+        memory_context = "\n\n--- Recalled Long-Term Memories (from SQLite Storage) ---\n" + "\n".join(memory_lines)
+
+    # ---------------------------------------------------------
+    # STEP 2: Run Agent 1 and Agent 2 CONCURRENTLY
     # ---------------------------------------------------------
     print(f"\n[Parallel Execution] Running Agent 1 (KG-RAG) & Agent 2 (Web Search) simultaneously for: '{query}'...")
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
@@ -140,7 +177,7 @@ def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, An
     # ---------------------------------------------------------
     # AGENT 3: Entry Agent (Combine, Save & Format)
     # ---------------------------------------------------------
-    print(f"\n[Agent 3: Entry Agent] Compiling final report in {target_language_name} & saving to answers.txt...")
+    print(f"\n[Agent 3: Entry Agent] Compiling final report in {target_language_name} & saving to SQLite LTM...")
     entry_agent_prompt = [
         SystemMessage(content=(
             f"You are the Entry Agent. Always respond in {target_language_name}.\n"
@@ -150,12 +187,14 @@ def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, An
             "3. **Step-by-Step Application Process** (specify the relevant office to visit: Agricultural Office / வேளாண் அலுவலகம் / வேளாண்மைத்துறை)\n"
             "4. **Mandatory Required Documents**\n"
             "5. **Official Portal & Web Guidelines Links** (clickable Markdown links)\n\n"
-            "Retain all factual data from the Assistant and live web search findings."
+            "Retain all factual data from the Assistant, live web search findings, and past recalled memories."
         )),
         HumanMessage(content=(
             f"User Query: {query}\n\n"
             f"--- Assistant Graph Answer ---\n{assistant_response}\n\n"
             f"--- Web Search Answer ---\n{web_response}"
+            f"{history_context}"
+            f"{memory_context}"
         ))
     ]
     final_output = llm.invoke(entry_agent_prompt).content
@@ -163,6 +202,20 @@ def run_support_crew(query: str, language: Optional[str] = None) -> Dict[str, An
     # Save to agent_audit_log.txt
     answers_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "agent_audit_log.txt")
     append_to_answers_file(query, assistant_response, web_response, answers_file_path)
+
+    # Save to Persistent SQLite Long-Term Memory
+    try:
+        memory_db.save_interaction(
+            session_id=session_id,
+            query=query,
+            assistant_context=assistant_response,
+            web_context=web_response,
+            final_answer=final_output,
+            language=lang_code
+        )
+        print(f"[SQLite Long-Term Memory] Successfully persisted query, entities, and multi-agent resolution to SQLite.")
+    except Exception as mem_err:
+        print(f"[SQLite Long-Term Memory Warning] Failed to save to SQLite: {mem_err}")
 
     return {
         "query": query,

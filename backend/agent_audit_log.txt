@@ -854,3 +854,177 @@ In Tamil Nadu, farmers can benefit from a seed subsidy program that provides fin
 Farmers in Tamil Nadu are encouraged to take advantage of these subsidies and programs to enhance their agricultural productivity.
 ================================================================================
 
+
+================================================================================
+Timestamp: 2026-08-17 00:38:27
+Query: give center formar scheme
+--------------------------------------------------------------------------------
+[1. ASSISTANT KNOWLEDGE GRAPH ANSWER]:
+## Old Age Pension Scheme under Chief Minister’s Uzhavar Padhukappu Thittam
+
+### Benefits
+- **Pension:** ₹1,000/- per month.
+- **Free Clothes during Festivals:**
+  - One free dhoti for male pensioners.
+  - One free saree for female pensioners.
+- **Free Rice in Anganwadi Centres:**
+  - 2 kg/month for those taking nutritious meals.
+  - 4 kg/month for those not taking nutritious meals.
+
+### Eligibility Criteria
+To be eligible for the scheme, the applicant must meet the following criteria:
+1. The applicant should be destitute.
+2. The applicant's age should be 60 years and above.
+3. The applicant should be a farmer or a landless agricultural laborer.
+4. The applicant's fixed assets should not exceed ₹1,00,000/-.
+
+### Application Process
+The application process is as follows:
+1. **Gather Documents:** Collect copies of all necessary documents required for the application.
+2. **Visit CSC:** Go to the nearest Common Service Center (CSC) and complete the Biometric Verification Process.
+3. **Fill Application Form:** Complete the application form by filling in all mandatory fields and upload copies of all required documents.
+4. **Request Receipt:** After submission, request a receipt or acknowledgment from the concerned authority. Ensure it contains essential details such as the date and time of submission, and a unique identification number (if applicable).
+
+### Required Documents
+The following documents are required to apply:
+- Applicant's Photo
+- Aadhaar Card
+- Proof of Age
+- Aadhaar Consent Form
+- Smart Ration Card or Any Address Proof
+- Membership Card under CMPUT
+- Self-declaration of Applicant
+- Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License)
+- Bank Passbook
+
+### Official Portal Link
+For more information and to apply, please visit the official portal: [Old Age Pension Scheme](https://www.myscheme.gov.in/schemes/oapsucmupt)
+--------------------------------------------------------------------------------
+[2. WEB SEARCH ASSISTANT ANSWER]:
+The "Center Formar Scheme" appears to be a typographical error or misunderstanding. However, based on the latest updates from Tamil Nadu's agricultural initiatives, here are some relevant schemes and announcements:
+
+1. **Price Support Scheme (PSS)**: The Tamil Nadu government is encouraging farmers to benefit from the Price Support Scheme for Black Gram and Green Gram. This initiative aims to provide financial support to farmers during price fluctuations. More details can be found [here](https://tnagriculture.in/common_portal/Press).
+
+2. **Agricultural Insurance and Financial Support**: The Tamil Nadu government has various schemes aimed at providing insurance coverage and financial assistance to farmers. This is part of a broader effort to enhance agricultural productivity and security. More information is available [here](https://agritech.tnau.ac.in/expert_system/paddy/Schemes.html).
+
+3. **Agriculture Subsidy for Agri Value Centres**: Recently, the Tamil Nadu government launched a significant agriculture subsidy scheme to establish and modernize 100 Agri Value Centres across the state. This initiative is designed to improve agricultural infrastructure and support farmers. Details can be found [here](https://globalriskcommunity.com/forum/topics/tamil-nadu-govt-launches-agriculture-subsidy-for-100-agri-value-c).
+
+If you are looking for specific details about a particular scheme or need further assistance, please clarify your request!
+================================================================================
+
+
+================================================================================
+Timestamp: 2026-08-16 19:38:32
+Query: give some helpful scheme for studuent
+--------------------------------------------------------------------------------
+[1. ASSISTANT KNOWLEDGE GRAPH ANSWER]:
+It seems that there are currently no specific schemes listed in the Knowledge Graph for students. However, I can provide general information about common types of student support schemes that are often available. Here are some examples:
+
+### 1. Scholarships
+**Benefits:**
+- Financial assistance for tuition fees.
+- May cover living expenses or books.
+
+**Eligibility Criteria:**
+- Typically based on academic merit, financial need, or specific demographics (e.g., minority groups).
+
+**Application Process:**
+- Research available scholarships.
+- Complete the application form and submit required documents.
+
+**Required Documents:**
+- Academic transcripts.
+- Recommendation letters.
+- Personal statement or essay.
+
+**Official Portal Links:**
+- [Scholarship Portal](https://www.scholarshipportal.com)
+
+---
+
+### 2. Student Loans
+**Benefits:**
+- Access to funds for tuition and living expenses.
+- Flexible repayment options after graduation.
+
+**Eligibility Criteria:**
+- Must be enrolled in an accredited educational institution.
+- May require a credit check or co-signer.
+
+**Application Process:**
+- Fill out the loan application form.
+- Submit financial information for assessment.
+
+**Required Documents:**
+- Proof of enrollment.
+- Financial statements.
+
+**Official Portal Links:**
+- [Student Loan Information](https://studentaid.gov)
+
+---
+
+### 3. Grants
+**Benefits:**
+- Financial aid that does not need to be repaid.
+- Can cover tuition, fees, and other educational costs.
+
+**Eligibility Criteria:**
+- Based on financial need or specific criteria set by the grant provider.
+
+**Application Process:**
+- Apply through the designated grant application process.
+
+**Required Documents:**
+- FAFSA (Free Application for Federal Student Aid) for U.S. grants.
+- Financial documentation.
+
+**Official Portal Links:**
+- [Grants.gov](https://www.grants.gov)
+
+---
+
+### 4. Work-Study Programs
+**Benefits:**
+- Opportunity to earn money while studying.
+- Flexible hours that accommodate class schedules.
+
+**Eligibility Criteria:**
+- Must demonstrate financial need.
+- Enrolled in a participating institution.
+
+**Application Process:**
+- Indicate interest in work-study on the FAFSA.
+
+**Required Documents:**
+- FAFSA application.
+- Proof of enrollment.
+
+**Official Portal Links:**
+- [Federal Work-Study Program](https://studentaid.gov)
+
+---
+
+If you have a specific type of support scheme in mind or need more detailed information, please let me know!
+--------------------------------------------------------------------------------
+[2. WEB SEARCH ASSISTANT ANSWER]:
+Here are some helpful schemes for students that you might find beneficial:
+
+1. **Tamil Nadu Agricultural Labourers Agriculturalists Social Security And Welfare Scheme 2006**:
+   - This scheme provides educational assistance to the children of agricultural laborers and farmers. It aims to support the education of students whose parents are engaged in agriculture.
+   - More details can be found [here](https://www.tn.gov.in/scheme_beneficiary_list.php?id=MTk=).
+
+2. **Government Schemes Portal**:
+   - This portal offers a comprehensive list of various schemes available for students, including assistance for installation of irrigation systems and other educational support initiatives.
+   - You can explore the schemes available for you [here](https://scheme-seva-gov.vercel.app/schemes).
+
+3. **State Schemes for Students**:
+   - The Department of Welfare of Differently Abled and Senior Citizens (DWBDNC) provides several state-level schemes such as:
+     - Pre-SSC Scholarship for students from classes 5 to 10.
+     - Assistance for students from De-notified Tribes (DNTs) studying in self-financed institutes.
+     - Talent Pool Scheme for various educational support.
+   - More information is available on their official site [here](https://dwbdnc.dosje.gov.in/state).
+
+These schemes can provide financial assistance and support for educational needs, so it's worth checking eligibility and application processes.
+================================================================================
+
